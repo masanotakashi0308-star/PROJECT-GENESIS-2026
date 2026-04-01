@@ -1,14 +1,16 @@
-**Copyright © 2025-2026 JIN-ORDER-OFFICIAL & masanotakashi0308-star. All Rights Reserved.**
+### ⚖️ LICENSE & CONTACT（ライセンスおよび利用規約）
 
-**© 2025-2026 JIN-ORDER 総帥 / masanotakashi0308-star All Rights Reserved.**
+本アーカイブの個人的な閲覧、非営利目的での共有（真実の探求と啓蒙）は歓迎します。
 
-JIN-ORDERの世界観、設定、ストーリー、コンセプト、テキスト、画像、その他一切の表現およびコンテンツは、作者のオリジナル著作物です。  
-無断での複製、改変、再配布、商用利用、二次創作などを一切禁止します。
+ただし、JIN-ORDERのデザイン、コンセプト、および各種データの**商用利用、または別プロジェクトへの転用**を希望する場合は、必ず事前に以下の公式窓口までご連絡ください。
 
-This project and its entire contents—including the JIN-ORDER universe, lore, concepts, world-building, texts, and visuals—are the original intellectual property of the creator. All rights reserved.  
-No unauthorized copying, modification, redistribution, commercial use, or derivative works are permitted without explicit written permission from the author.
+If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes or implement them into other projects, you must contact our official desk in advance. Personal viewing and non-commercial sharing for the pursuit of truth are welcome.
 
-JIN-ORDER is the definitive OS of Justice, established to reclaim the human soul from the hollow "Hope" of the elite.
+### ✉️ **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
+
+※デザイン等の使用に関する報酬やライセンス契約については、JIN-ORDERのCFO（最高財務責任者）が直接協議・審査を行います。無断転用はJIN-OSのプロトコルにより固く禁じます。
+
+*(For compensation and licensing agreements regarding the use of our designs, the CFO of JIN-ORDER will negotiate and review directly. Unauthorized use is strictly prohibited by JIN-OS protocols.)*
 
 ---
 
