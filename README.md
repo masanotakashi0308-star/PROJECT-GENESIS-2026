@@ -39,6 +39,9 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ### 2. [Strategic Infrastructure Analysis: Japan Usurpation OS](./Intelligence_Visual_Logs/Main_Infographic_Japan_Usurpation_OS_Deconstruction.jpg)
 > **Description:** 2026年の「デジタル監獄」完成に向けた最終仕様書。伊藤穰一のバックドア「Japan Smart Chain」、パランティアの監視の心臓、そして水の汚染（フッ素/ヴェオリア）とエネルギー簒奪（GEIDCO）の全ルートを可視化。
 
+### 3.  [Strategic Infrastructure Analysis: Japan Usurpation OS](./Intelligence_Visual_Logs/JIN-ORDER_Visual_Log_Yokohama_Trilogy_Usurpation.jpg)
+> **Description:** 旧新3代の市長（中田宏、林文子、山中竹春）による横浜私物化の全アルゴリズム。WEF直系の草刈り場化、カジノ（IR）ロンダリング、そして園芸博覧会という名のバイオ・ハック実験場への改造を特定。
+
 ---
 
 ### このリポジトリが公開された瞬間、お前たちの支配インフラは物理的に崩壊を始める。
