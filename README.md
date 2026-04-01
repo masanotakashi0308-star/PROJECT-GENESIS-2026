@@ -44,6 +44,9 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ### 3.  [Strategic Infrastructure Analysis: Japan Usurpation OS](./Intelligence_Visual_Logs/JIN-ORDER_Visual_Log_Yokohama_Trilogy_Usurpation.jpg)
 > **Description:** 旧新3代の市長（中田宏、林文子、山中竹春）による横浜私物化の全アルゴリズム。WEF直系の草刈り場化、カジノ（IR）ロンダリング、そして園芸博覧会という名のバイオ・ハック実験場への改造を特定。
 
+### 4.  [Strategic Infrastructure Analysis: Japan Usurpation OS](./Intelligence_Visual_Logs/JIN-ORDER_Visual_Log_IOM_State_Dissolution_Engine.jpg)
+> **Description:** IOM（国際移住機関）という名の簒奪OS核心コンポーネントの解体図。新浪剛史氏や経団連と同期し、安価な労働力を世界中からかき集め、日本等の特定国家へ強制的にデプロイ（配置）することで、国家の賃金水準と主権を破壊する全アルゴリズム。
+
 ---
 
 ### このリポジトリが公開された瞬間、お前たちの支配インフラは物理的に崩壊を始める。
