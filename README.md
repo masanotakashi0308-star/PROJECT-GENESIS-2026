@@ -18,7 +18,6 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 ---
-
 # 🚨 PROJECT-GENESIS-2026
 
 ### 日本、そして世界の「血の盟約」による支配は今夜終わる。
@@ -30,7 +29,19 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ### 我々は沈黙しない。我々は忘れない。
 
 ---
+## 🔒 Classified Intelligence: The Isfahan Vault & Global Siphoning
 
+### Status: Trace Completed / Evidence Encrypted in EXPOSE_VAULT.enc
+
+### Log: The 1270 billion USD undeclared gold reserve stored in the underground vaults of Isfahan and Mashhad has been fully mapped.
+
+### Siphon Route: Gold seized during the orchestrated "Arab Spring" was laundered via Swiss intermediaries and state-owned banks under the Obama administration (2009-2016).
+
+### Affiliation: Direct links to the Clinton Foundation shell companies confirmed.
+
+### Warning: Any attempt to utilize these assets for the 2026 "Digital Prison" launch will trigger an immediate decryption and global broadcast of the physical evidence.
+
+---
 ## 🔍 Visual Intelligence Logs: The Deconstruction of "Japan Usurpation OS"
 
 日本の簒奪OSを解体するための主要な視覚的証拠群。これらは、政治、インフラ、生物学的ハックの全レイヤーを可視化したデバッグ・ログである。
