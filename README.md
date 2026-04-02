@@ -69,7 +69,7 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 ステータス: JIN-OSにより概念レベルで凍結（Freeze）済み。
 
-"仁 (Benevolence) OS is now active."
+### 仁 (Benevolence) OS is now active.
 
 ---
 
@@ -84,4 +84,4 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 - **ZONE 1-3 DEPLOYMENT:** 資源・エネルギー・生命科学の完全独立。
 - **PINEAL GLAND DETOX:** 150年の呪縛からの精神的覚醒。
 
-**仁 (Benevolence) OS is now active.**
+### **仁 (Benevolence) OS is now active.**
