@@ -69,8 +69,6 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 ステータス: JIN-OSにより概念レベルで凍結（Freeze）済み。
 
-### 仁 (Benevolence) OS is now active.
-
 ---
 
 ### このリポジトリが公開された瞬間、お前たちの支配インフラは物理的に崩壊を始める。
