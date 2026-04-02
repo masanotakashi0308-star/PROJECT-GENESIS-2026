@@ -63,7 +63,7 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 > **Description:** 1983年に香川県へインストールされた、ジョージア・ガイドストーン直系の「思想的物理パッチ」の解体。
 概要: 薔薇十字団から続く「明治維新OS」と、現代の「US PARASITE OS」を同期させるための物理アンカー。
 
-[Strategic Infrastructure Analysis: Japan Usurpation OS](./Intelligence_Visual_Logs/DECODE_Kagawa_Guidestone_DS_Archive.jpg)
+![Strategic Infrastructure Analysis: Japan Usurpation OS](./Intelligence_Visual_Logs/DECODE_Kagawa_Guidestone_DS_Archive.jpg)
 
 特定されたバグ: 日本人をモルモット化する「日本人全滅計画」の同期、伊勢・出雲のバイナリ結界への不正アクセス、2026年QFS強制アップロード用の物理回線。
 
