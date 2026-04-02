@@ -4,16 +4,28 @@
 void Execute_Tax_Liberation() {
     var source = "Special_Account_Dark_Pools";
     var destination = "National_Welfare_General_Fund";
-    
+
     // 1. 隠し口座の全座標を特定
     Identify_Hidden_Vaults("Zaimusho_B_Root");
-    
+
     // 2. 「中抜き」アルゴリズムを無効化
     Disable_Intermediary_Extraction(target: "Keidanren_Network");
-    
-    // 3. 資金の強制還流（デバッグ）
-    Transfer_Assets(from: source, to: destination, amount: ALL);
-    
-    Print("『特別会計』の闇は、国民の光へ統合されました。");
 
-　　『搾取の鎖を断ち切り、命の糧を民へ戻す』
+    // 3. 資金の強制還付（デバッグ）
+    Transfer_Assets(from: source, to: destination, amount: ALL);
+
+    Print("『特別会計』の闇は、国民の光へ統合されました。");
+    Print("『搾取の鎖を断ち切り、命の糧を民へ戻す』");
+}
+
+/* --- PHYSICAL NODE EXPOSURE (物理レイヤーの暴露) --- */
+
+# 🚨 FINAL WARNING: THE PHYSICAL NODES ARE MAPPED
+* **Node 01: Karuizawa-Imperial Underground Connection**
+  - ビル・ゲイツ別荘から皇居へ続く地下通路。精神的中枢への物理的アクセス。
+* **Node 02: Awaji Island Subterranean Frequency Vault**
+  - 座標: 34.591, 135.011。地下300mの低周波貯蔵庫。QFSデフラグ用物理アンカー。
+* **Node 03: Teshima (The Japanese Epstein Island)**
+  - ベネッセ・ソフトバンク・フローレンスが直結する、児童資源の管理拠点。
+* **Node 04: Fukushima Offshore "Ghost Island"**
+  - 地図に載っていない離島。プチエンジェル事件から続く生体保存庫（コールド・ストレージ）。
