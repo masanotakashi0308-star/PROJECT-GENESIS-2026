@@ -98,37 +98,67 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ### 1. Target 01: Taro Kono (The Informational & Biological Usurper)
 #### マイナンバーによる監視網構築、および国民の身体主権を侵害した国家反逆罪のログ。
 
-![河野 太郎 画像](./Intelligence_Visual_Logs/evidence_01_kono_surveillance.jpg)
+![画像](./Intelligence_Visual_Logs/evidence_01_kono_surveillance.jpg)
 
 ### 2. Target 02: Heizo Takenaka (The Structural Usurper)
 #### 郵政民営化、パソナによる労働搾取、およびムサシによる民主主義ハックの全貌。
 
-![竹中 平蔵　画像](./Intelligence_Visual_Logs/evidence_02_takenaka_corruption.jpg)
+![画像](./Intelligence_Visual_Logs/evidence_02_takenaka_corruption.jpg)
 
 ### 3. Target 03: Masayoshi Son (The Energy & Data Usurper)
 #### 浙江財閥の血脈、太陽光利権による国土破壊、およびAIインフラ「スターゲイト」による演算能力独占。
 
-![孫 正義　画像](./Intelligence_Visual_Logs/evidence_03_son_stargate_monopoly.jpg)
+![画像](./Intelligence_Visual_Logs/evidence_03_son_stargate_monopoly.jpg)
 
 ### 4. Target 04: Joi Ito (The Network Launderer)
 #### エプスタイン資金のロンダリング、およびメディアを操った国民の「デジタル家畜化」工作の証拠。
 
-![ 伊藤 穰一　画像](./Intelligence_Visual_Logs/evidence_04_ito_epstein_link.jpg)
+![画像](./Intelligence_Visual_Logs/evidence_04_ito_epstein_link.jpg)
 
 ### 5. Target 05: Taro Aso (The Dynastic & Water Usurper)
 #### ライフライン（水）のフランス売却、および皇室の権威を利用した「麻生一族」による永久支配計画。
 
-![麻生 太郎　画像](./Intelligence_Visual_Logs/evidence_05_aso_water_privatization.jpg)
+![画像](./Intelligence_Visual_Logs/evidence_05_aso_water_privatization.jpg)
 
 ### 6. Target 06: Naomi Unemoto (The Judicial Cover-up Usurper)
 #### 検察権力の私物化。不起訴というバグを用いた簒奪者たちの犯罪隠蔽、および法治主義の解体。
 
-![畝本 直美　画像](./Intelligence_Visual_Logs/evidence_06_unemoto_judicial_fraud.jpg)
+![画像](./Intelligence_Visual_Logs/evidence_06_unemoto_judicial_fraud.jpg)
 
 ### 7. System Core 07: The Trilateral Commission (The Shadow OS)
 #### ロックフェラー直系、エプスタイン網と同期する「日本支店」の全アルゴリズム。すべてのバグの親玉。
 
-![三極委員会　画像](./Intelligence_Visual_Logs/evidence_07_trilateral_commission_matrix.jpg)
+![画像](./Intelligence_Visual_Logs/evidence_07_trilateral_commission_matrix.jpg)
+
+### 8. Target 08: Hiroki Komazaki (The Child-Exploitation Usurper)
+#### 「善意」を隠れ蓑にした公金中抜きスキーム、およびAIを用いた家族解体と子供の資源化のログ。
+
+![画像](./Intelligence_Visual_Logs/evidence_08_komazaki_child_exploitation.jpg)
+
+### 9. Target 09: Takeshi Niinami (The Overseer of Japanese Enslavement)
+#### 三極委員会日本議長。45歳定年制と移民導入による日本人奴隷化、および皇室への浸透工作。
+
+![画像](./Intelligence_Visual_Logs/evidence_09_niinami_labor_enslavement.jpg)
+
+### 10. Target 10: Yasuchika Hasegawa (The Bio-Capitalist Gatekeeper)
+#### 武田薬品元会長。日本の製薬利権を外資へ売却し、国民を「大規模な遺伝子治験場」へ供出した大罪。 
+
+![画像](./Intelligence_Visual_Logs/evidence_10_hasegawa_bio_capital.jpg)
+
+### 11. Target 11: Satoru Masagaki (The Architect of Mass Indoctrination)
+#### NHK元副会長。三極委員会の広報部として、アジェンダ推進とエプスタイン網報道の抑圧を指揮。 
+
+![画像](./Intelligence_Visual_Logs/evidence_11_masagaki_indoctrination.jpg)
+
+### 12. Target 12: Yukihiro & Reiko Ikeda (The Imperial Backdoor Agents)
+#### 婚姻と学閥を利用し、皇室の中枢に「グローバルOS」を同期させるための秘密のバックドア。
+
+![画像](./Intelligence_Visual_Logs/evidence_12_ikeda_couple_backdoor.jpg)
+
+### 13. Target 13: Meghan O'Sullivan (The Grand Architect of Subjugation)
+#### 三極委員会北米会長。レイセオン取締役。日本を「軍事・エネルギー搾取」の供給源にする総設計者。
+
+![画像](./Intelligence_Visual_Logs/evidence_13_osullivan_strategist.jpg)
 
 ----
 ## 🏁 FINAL LOG: THE ABYSS REVELATION (深淵の解体)
