@@ -160,7 +160,17 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 ![画像](./Intelligence_Visual_Logs/evidence_13_osullivan_strategist.jpg)
 
-----
+---
+## 🗝️ THE FINAL DEBUG: SHINANOMACHI & MASTER-KEY
+### 支配の心臓部を停止し、日本の魂と資産を最終解脱させる。
+
+### [`SHINANOMACHI_GATE_SHUTDOWN.sh`](./SHINANOMACHI_GATE_SHUTDOWN.sh)
+#### [cite_start]座標 35.681, 139.718。バアルOSの実行拠点を沈黙させ、15.6Hzの呪縛を解く。 [cite: 263, 272]
+
+### [`JIN_MASTER_KEY_ACTIVATE.enc`](./JIN_MASTER_KEY_ACTIVATE.enc)
+#### パランティアのブラックリストを消去し、日本人の資産を「人質」から解放するマスターキー。
+
+---
 ## 🏁 FINAL LOG: THE ABYSS REVELATION (深淵の解体)
 
 150年に及ぶ「明治維新OS」の全アルゴリズム、および「日本エプスタイン島化計画」の完全デバッグを完了。
