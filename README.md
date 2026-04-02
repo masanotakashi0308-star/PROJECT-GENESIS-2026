@@ -6,67 +6,50 @@
 
 If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes or implement them into other projects, you must contact our official desk in advance. Personal viewing and non-commercial sharing for the pursuit of truth are welcome.
 
-📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
+### 📩 JIN-ORDER Official Contact: jin.reparation.cfo@gmail.com
 
 ---
-> [!IMPORTANT]
-> 🛠️ **[IMPLEMENTATION NORMS (実装ノルマ) はこちら](IMPLEMENTATION_NORMS.md)**
-
-> ※本リポジトリの利用・保持には、上記「実装義務」の遵守が必須条件となります。
-
----
-
-### 🚨 WARNING: JIN-OS PROTOCOL (絶対遵守規定)
-
 ### 1. CFO Authority / CFO（最高財務責任者）の絶対権限
 
-デザイン等の使用に関する報酬やライセンス契約については、**JIN-ORDERのCFO（最高財務責任者）が直接協議・審査を行います。** CFOは本プロジェクトの門番であり、彼女の承認なき利用はいかなる理由があろうとも認められません。
+※本リポジトリの利用・保持には、上記「実装義務」の遵守が必須条件となります。
 
-(For compensation and licensing agreements regarding the use of our designs, the CFO of JIN-ORDER will negotiate and review directly. The CFO is the ultimate gatekeeper of this project.)
+デザイン等の使用に関する報酬やライセンス契約については、JIN-ORDERのCFO（最高財務責任者）が直接協議・審査を行います。
+
+CFOは本プロジェクトの門番であり、彼女の承認なき利用はいかなる理由があろうとも認められません。
 
 ### 2. Prohibition of Unauthorized Use / 無断転用の厳禁
 
-無断転用、およびCFOの審査を経ないフリーライド（タダ乗り）は**JIN-OSのプロトコルにより固く禁じます。** これに違反する行為は、JIN-ORDERに対する敵対的バグとみなし、デジタル・社会的デバッグの対象となります。
+無断転用、およびCFOの審査を経ないフリーライド（タダ乗り）はJIN-OSのプロトコルにより固く禁じます。
 
-(Unauthorized use is strictly prohibited by JIN-OS protocols. Any violation will be treated as a hostile system bug and subject to immediate "debugging" and exclusion.)
+これに違反する行為は、JIN-ORDERに対する敵対的バグとみなし、デジタル・社会的デバッグの対象となります。
 
 ### 3. Anti-Dormancy Clause / 知的財産の死蔵禁止
 
-提供された技術やIPを官僚主義によって死蔵させることは許されません。実装計画なき保持、およびCFOへの敬意を欠く組織に対しては、ライセンスの即時凍結および権利の回収を実行します。
-(The hoarding or dormancy of provided IP due to bureaucracy will not be tolerated. For organizations lacking a concrete implementation plan or respect for the CFO, we will execute an immediate freeze and revocation of all rights.)
+提供された技術やIPを官僚主義によって死蔵させることは許されません。
 
----
-### "Respect the Protocol. Respect the CFO. Or stay out of JIN-ORDER."
-### プロトコルを守れ。CFOを敬え。さもなくばJIN-ORDERに関わるな。
----
+実装計画なき保持、およびCFOへの敬意を欠く組織に対しては、ライセンスの即時凍結および権利の回収を実行します。
 
-# PROJECT-GENESIS-2026
+"Respect the Protocol. Respect the CFO. Or stay out of JIN-ORDER."
+
+プロトコルを守れ。CFOを敬え。さもなくばJIN-ORDERに関わるな。
+
+PROJECT-GENESIS-2026
+
 Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 ---
 # 🚨 PROJECT-GENESIS-2026
-
 ### 日本、そして世界の「血の盟約」による支配は今夜終わる。
-
 ### 特別会計の闇、経団連の売国、二大宗教の裏側、そして「子供たちの命」を贄とする全ての吸血鬼たちへ。
-
 ### お前たちが隠してきた全てのデータ、資金移動、盟約の儀式ログは既にJIN-ORDERの手中にある。
-
 ### 我々は沈黙しない。我々は忘れない。
 
----
-## 🔒 Classified Intelligence: The Isfahan Vault & Global Siphoning
-
-### Status: Trace Completed / Evidence Encrypted in EXPOSE_VAULT.enc
-
-### Log: The 1270 billion USD undeclared gold reserve stored in the underground vaults of Isfahan and Mashhad has been fully mapped.
-
-### Siphon Route: Gold seized during the orchestrated "Arab Spring" was laundered via Swiss intermediaries and state-owned banks under the Obama administration (2009-2016).
-
-### Affiliation: Direct links to the Clinton Foundation shell companies confirmed.
-
-### Warning: Any attempt to utilize these assets for the 2026 "Digital Prison" launch will trigger an immediate decryption and global broadcast of the physical evidence.
-
+### 🔒 Classified Intelligence: The Isfahan Vault & Global Siphoning
+### Trace Completed / Evidence Encrypted in EXPOSE_VAULT.enc
+### The 1270 billion USD undeclared gold reserve stored in the underground vaults of Isfahan and Mashhad has been fully mapped.
+### Gold seized during the orchestrated "Arab Spring" was laundered via Swiss intermediaries and state-owned banks under the Obama administration (2009-2016).
+### Direct links to the Clinton Foundation shell companies confirmed.
+### Any attempt to utilize these assets for the 2026 "Digital Prison" launch will trigger an immediate decryption and global broadcast of the physical evidence.
 ---
 ## 🔍 Visual Intelligence Logs: The Deconstruction of "Japan Usurpation OS"
 
@@ -108,7 +91,46 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 > 八角形の武道館地下300mに眠る重水冷却プールと、ライブの生体磁場を13血族の暗号資産へ変換するアルゴリズム。松果体をハックする15.6Hzの集団催眠と『バアルOS』の同期。
 　
 > JIN-ORDERのゴールデン・マスターキーにより粉砕。概念レベルでの凍結（Freeze）完了。
+---
+# 💀 Final Indictment Case Files: The 7 Core Usurpers
+### 日本を内側から食い荒らす「6人の実行犯」と、その背後で糸を引く「1つの影のOS」への最終通牒。
 
+### 1. Target 01: Taro Kono (The Informational & Biological Usurper)
+#### マイナンバーによる監視網構築、および国民の身体主権を侵害した国家反逆罪のログ。
+
+![河野 太郎 画像](./Intelligence_Visual_Logs/evidence_01_kono_surveillance.jpg)
+
+### 2. Target 02: Heizo Takenaka (The Structural Usurper)
+#### 郵政民営化、パソナによる労働搾取、およびムサシによる民主主義ハックの全貌。
+
+![竹中 平蔵　画像](./Intelligence_Visual_Logs/evidence_02_takenaka_corruption.jpg)
+
+### 3. Target 03: Masayoshi Son (The Energy & Data Usurper)
+#### 浙江財閥の血脈、太陽光利権による国土破壊、およびAIインフラ「スターゲイト」による演算能力独占。
+
+![孫 正義　画像](./Intelligence_Visual_Logs/evidence_03_son_stargate_monopoly.jpg)
+
+### 4. Target 04: Joi Ito (The Network Launderer)
+#### エプスタイン資金のロンダリング、およびメディアを操った国民の「デジタル家畜化」工作の証拠。
+
+![ 伊藤 穰一　画像](./Intelligence_Visual_Logs/evidence_04_ito_epstein_link.jpg)
+
+### 5. Target 05: Taro Aso (The Dynastic & Water Usurper)
+#### ライフライン（水）のフランス売却、および皇室の権威を利用した「麻生一族」による永久支配計画。
+
+![麻生 太郎　画像](./Intelligence_Visual_Logs/evidence_05_aso_water_privatization.jpg)
+
+### 6. Target 06: Naomi Unemoto (The Judicial Cover-up Usurper)
+#### 検察権力の私物化。不起訴というバグを用いた簒奪者たちの犯罪隠蔽、および法治主義の解体。
+
+![畝本 直美　画像](./Intelligence_Visual_Logs/evidence_06_unemoto_judicial_fraud.jpg)
+
+### 7. System Core 07: The Trilateral Commission (The Shadow OS)
+#### ロックフェラー直系、エプスタイン網と同期する「日本支店」の全アルゴリズム。すべてのバグの親玉。
+
+![三極委員会　画像](./Intelligence_Visual_Logs/evidence_07_trilateral_commission_matrix.jpg)
+
+----
 ## 🏁 FINAL LOG: THE ABYSS REVELATION (深淵の解体)
 
 150年に及ぶ「明治維新OS」の全アルゴリズム、および「日本エプスタイン島化計画」の完全デバッグを完了。
@@ -145,3 +167,6 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 - **PINEAL GLAND DETOX:** 150年の呪縛からの精神的覚醒。
 
 ### **仁 (Benevolence) OS is now active.**
+
+---
+
