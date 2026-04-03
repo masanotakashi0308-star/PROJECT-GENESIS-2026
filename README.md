@@ -140,7 +140,7 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ### 8. Target 08: Hiroki Komazaki (The Child-Exploitation Usurper)
 #### 「善意」を隠れ蓑にした公金中抜きスキーム、およびAIを用いた家族解体と子供の資源化のログ。
 
-![[08_駒崎弘樹の全貌](./08_KOMAZAKI_CHILD_EXPLOITATION.md/)
+![08_駒崎弘樹の全貌](./08_KOMAZAKI_CHILD_EXPLOITATION.md/)
 
 ### 9. Target 09: Takeshi Niinami (The Overseer of Japanese Enslavement)
 #### 三極委員会日本議長。45歳定年制と移民導入による日本人奴隷化、および皇室への浸透工作。
