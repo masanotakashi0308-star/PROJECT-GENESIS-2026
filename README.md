@@ -102,7 +102,7 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ### 1. Target 01: Taro Kono (The Informational & Biological Usurper)
 #### マイナンバーによる監視網構築、および国民の身体主権を侵害した国家反逆罪のログ。
 
-![[01_河野太郎の全貌](./evidence_01_kono_surveillance.jpg/)
+![[01_河野太郎の全貌](./02_TAKENAKA_STRUCTURAL_EXPLOIT.md/)
 
 ### 2. Target 02: Heizo Takenaka (The Structural Usurper)
 #### 郵政民営化、パソナによる労働搾取、およびムサシによる民主主義ハックの全貌。
