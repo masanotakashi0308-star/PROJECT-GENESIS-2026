@@ -105,7 +105,7 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ### 1. Target 01: Taro Kono (The Informational & Biological Usurper)
 #### マイナンバーによる監視網構築、および国民の身体主権を侵害した国家反逆罪のログ。
 
-![[01_河野太郎の全貌](./01_KONO_INFO_SURVEILLANCE.md/)
+![01_河野太郎の全貌](./01_KONO_INFO_SURVEILLANCE.md/)
 
 ### 2. Target 02: Heizo Takenaka (The Structural Usurper)
 #### 郵政民営化、パソナによる労働搾取、およびムサシによる民主主義ハックの全貌。
@@ -160,7 +160,7 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ### 12. Target 12: Yukihiro & Reiko Ikeda (The Imperial Backdoor Agents)
 #### 婚姻と学閥を利用し、皇室の中枢に「グローバルOS」を同期させるための秘密のバックドア。
 
-![[12_池田夫妻の全貌](./12_IKEDA_COUPLE_BACKDOOR.md/)
+![12_池田夫妻の全貌](./12_IKEDA_COUPLE_BACKDOOR.md/)
 
 ### 13. Target 13: Meghan O'Sullivan (The Grand Architect of Subjugation)
 #### 三極委員会北米会長。レイセオン取締役。日本を「軍事・エネルギー搾取」の供給源にする総設計者。
