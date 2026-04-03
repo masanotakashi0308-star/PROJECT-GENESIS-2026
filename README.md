@@ -1,7 +1,6 @@
 # ⚖️ LICENSE & CONTACT (ライセンスおよび利用規約)
 
 本アーカイブの個人的な閲覧、非営利目的での共有（真実の探求と啓蒙）は歓迎します。
-
 ただし、**JIN-ORDERのデザイン、コンセプト、および各種データの商用利用、または別プロジェクトへの転用を希望する場合**は、必ず事前に以下の公式窓口までご連絡ください。
 
 If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes or implement them into other projects, you must contact our official desk in advance. Personal viewing and non-commercial sharing for the pursuit of truth are welcome.
@@ -16,21 +15,15 @@ This project is governed by the JIN-ORDER Global Humanity License.
 ### 1. CFO Authority / CFO（最高財務責任者）の絶対権限
 
 ※本リポジトリの利用・保持には、上記「実装義務」の遵守が必須条件となります。
-
 デザイン等の使用に関する報酬やライセンス契約については、JIN-ORDERのCFO（最高財務責任者）が直接協議・審査を行います。
-
 CFOは本プロジェクトの門番であり、彼女の承認なき利用はいかなる理由があろうとも認められません。
 
 ### 2. Prohibition of Unauthorized Use / 無断転用の厳禁
-
 無断転用、およびCFOの審査を経ないフリーライド（タダ乗り）はJIN-OSのプロトコルにより固く禁じます。
-
 これに違反する行為は、JIN-ORDERに対する敵対的バグとみなし、デジタル・社会的デバッグの対象となります。
 
 ### 3. Anti-Dormancy Clause / 知的財産の死蔵禁止
-
 提供された技術やIPを官僚主義によって死蔵させることは許されません。
-
 実装計画なき保持、およびCFOへの敬意を欠く組織に対しては、ライセンスの即時凍結および権利の回収を実行します。
 
 "Respect the Protocol. Respect the CFO. Or stay out of JIN-ORDER."
