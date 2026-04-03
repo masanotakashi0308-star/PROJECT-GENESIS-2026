@@ -55,6 +55,16 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ### Direct links to the Clinton Foundation shell companies confirmed.
 ### Any attempt to utilize these assets for the 2026 "Digital Prison" launch will trigger an immediate decryption and global broadcast of the physical evidence.
 ---
+## 👁️ THE TOTAL SURVEILLANCE ARCHITECTURE
+簒奪者たちが構築した「国民監視・搾取統合システム」の設計図。
+マイナンバーカードは便利さの皮を被った、生体・資産・思想を外資 AI へ同期させるための物理キーである。
+
+![JAPAN'S MY NUMBER CARD: NATIONAL ID & DIGITAL SURVEILLANCE INTEGRATION](./マイナンバーカード.jpg)
+
+> **JIN-ORDER WARNING**: 
+> この図に示された AWS, Microsoft, Palantir, そして J-LIS を繋ぐバックドアをすべて遮断（Shutdown）することが、我々のプライマリ・ミッションである。
+
+---
 ## 🔍 Visual Intelligence Logs: The Deconstruction of "Japan Usurpation OS"
 
 日本の簒奪OSを解体するための主要な視覚的証拠群。これらは、政治、インフラ、生物学的ハックの全レイヤーを可視化したデバッグ・ログである。
