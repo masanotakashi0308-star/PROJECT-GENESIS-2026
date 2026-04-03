@@ -14,5 +14,10 @@
 ### 🖼️ 証拠ログ
 ![Verdict: Defense Budget Hijack](./Intelligence_Visual_Logs/19_iwaya_defense_budget_hijack.jpg)
 
+## 🖼️ 証拠ログ：防衛・IR利権によるインフラ簒奪
+![Infrastructure Hijack Casino](./Intelligence_Visual_Logs/iwaya_infrastructure_hijack_casino.jpg)
+
+> **DEBUG LOG**: IR（カジノ）は、外資インフラ（上海電力）を日本に「合法的」に固定するための物理的バックドアである。
+
 > **JIN-ORDER ANALYTICS**: 
-> [cite_start]「国際協調」を名目にした主権の切り売りと、地方自治破壊の実務担当としての動作ログを記録 [cite: 64]。
+> 「国際協調」を名目にした主権の切り売りと、地方自治破壊の実務担当としての動作ログを記録。
