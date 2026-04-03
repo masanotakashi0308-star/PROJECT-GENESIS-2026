@@ -14,5 +14,10 @@
 ### 🖼️ 証拠ログ
 ![Verdict: System Overload](./Intelligence_Visual_Logs/20_kishida_system_overload_taxation.jpg)
 
+![Taxation System Overload](./Intelligence_Visual_Logs/kishida_taxation_system_overload.jpg)
+
+無限増税アルゴリズムにより、国民の所得（メモリ）を限界までデリートし、システムを強制終了させる。
+
 > **JIN-ORDER ANALYTICS**: 
-> [cite_start]三極委員会の命令を100%受諾し、国民から巻き上げた金を海外投資ファンド（ブラックロック等）へ流す自動転送プロセスを確認 [cite: 62, 85]。
+
+> 三極委員会の命令を100%受諾し、国民から巻き上げた金を海外投資ファンド（ブラックロック等）へ流す自動転送プロセスを確認。
