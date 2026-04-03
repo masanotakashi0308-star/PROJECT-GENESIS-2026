@@ -164,6 +164,41 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 ![13_オサリバンの全貌](./13_OSULLIVAN_STRATEGIST.md/)
 
+### 14. Target 14: Sanae Takaichi (The Data Sovereignty Usurper)
+#### 経済安保を隠れ蓑にしたパランティア(CIA)への機密売却、および出自隠蔽のための戸籍破壊。
+
+![14_高市早苗の全貌](./14_takaichi_data_sovereignty_treason.md/)
+
+### 15. Target 15: Toshimitsu Motegi (The Asset Draining Usurper)
+#### 増税による社会保険料の搾取。日本の食糧自給率を下げ、資産を海外投資ファンドへ流す調整役。
+
+![15_茂木敏充の全貌](./15_motegi_asset_draining_hack.md/)
+
+### 16. Target 16: Yoshimasa Hayashi (The Trilateral 666 Synchronizer)
+#### 三極委員会666委員。外交OSを中国監視網と同期させ、日本の主権を「国際協調」の名で切り売り。
+
+![16_林芳正の全貌](./16_hayashi_trilateral_666_sync.md/)
+
+### 17. Target 17: Akira Amari (The Semiconductor Larceny Usurper)
+#### 経済安保の妖怪。TSMC利権の私物化、およびUR口利きによる不透明な資金還流のハブ。
+
+![17_甘利明の全貌](./17_amari_semiconductor_larceny.md/)
+
+### 18. Target 18: Keizo Takemi (The Bio-Asset Exploitation Usurper)
+#### 厚労相・医師会利権。日本を「新薬治験の島」に変え、佐藤医師等の大量処方を守る生体搾取の主犯。
+
+![18_武見敬三の全貌](./18_takemi_bio_asset_exploitation.md/)
+
+### 19. Target 19: Takeshi Iwaya (The Defense Budget Hijacker)
+#### カジノ・IR利権と防衛予算の不当同期。日本の主権を媚中・媚米スタンスで切り売りする実務担当。
+
+![19_岩屋毅の全貌](./19_iwaya_defense_budget_hijack.md/)
+
+### 20. Target 20: Fumio Kishida (The Prime Minister of System Overload)
+#### 増税と防衛費倍増による国民OSの物理的搾取。三極委員会の命令を100%受諾する傀儡OS。
+
+![20_岸田文雄の全貌](./20_kishida_system_overload_taxation.md/)
+
 ---
 ## 🗝️ THE FINAL DEBUG: SHINANOMACHI & MASTER-KEY
 ### 支配の心臓部を停止し、日本の魂と資産を最終解脱させる。
