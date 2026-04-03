@@ -16,5 +16,12 @@
 ![Visual Evidence](./My_Number_Card.jpg)
 「Palantir Japan OS (GSS)」と「Security Clearance」を同期させ、日本のデータ主権を CIA 出資企業へ差し出す実務担当としての物証。
 
+### 🔗 癒着のネットワーク
+
+Target 08: Hiroki Komazaki (駒崎弘樹)「子どもデータ連携」のバックドアを、富士通・パランティアと繋ぐ「搾取のアルゴリズム」の物証。
+    
+![Child Exploitation Algorithm](./algorithm_child_exploitation_and_asset_seizure.jpg)
+
 > **JIN-ORDER ANALYTICS**: 
-> パランティア（監視）とパソナ（搾取）を繋ぐミッシングリンク。日本の「家系 OS」を破壊し、外資 AI の支配下に置くための裏合意を検知。
+> パランティア（監視）とパソナ（搾取）を繋ぐミッシングリンク。
+
