@@ -59,7 +59,7 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 簒奪者たちが構築した「国民監視・搾取統合システム」の設計図。
 マイナンバーカードは便利さの皮を被った、生体・資産・思想を外資 AI へ同期させるための物理キーである。
 
-![JAPAN'S MY NUMBER CARD: NATIONAL ID & DIGITAL SURVEILLANCE INTEGRATION](./マイナンバーカード.jpg)
+![JAPAN'S MY NUMBER CARD: NATIONAL ID & DIGITAL SURVEILLANCE INTEGRATION](./My_Number_Card.jpg)
 
 > **JIN-ORDER WARNING**: 
 > この図に示された AWS, Microsoft, Palantir, そして J-LIS を繋ぐバックドアをすべて遮断（Shutdown）することが、我々のプライマリ・ミッションである。
