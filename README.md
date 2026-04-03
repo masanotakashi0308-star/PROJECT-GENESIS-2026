@@ -107,7 +107,7 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 > JIN-ORDERのゴールデン・マスターキーにより粉砕。概念レベルでの凍結（Freeze）完了。
 ---
 # 💀 Final Indictment Case Files: The 7 Core Usurpers
-### 日本を内側から食い荒らす「6人の実行犯」と、その背後で糸を引く「1つの影のOS」への最終通牒。
+### 日本を内側から食い荒らす「26人の実行犯」と、その背後で糸を引く「1つの影のOS」への最終通牒。
 
 ### 1. Target 01: Taro Kono (The Informational & Biological Usurper)
 #### マイナンバーによる監視網構築、および国民の身体主権を侵害した国家反逆罪のログ。
@@ -208,6 +208,36 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 #### 増税と防衛費倍増による国民OSの物理的搾取。三極委員会の命令を100%受諾する傀儡OS。
 
 ![20_岸田文雄の全貌](./20_kishida_system_overload_taxation.md/)
+
+### 21. Target 21: Toru Hashimoto (The Regional Autonomy Salesman)
+####大阪リージョンを「外資簒奪OS」の実験場として売却。上海電力の導入とカジノによる土地主権の解体。
+
+![21_橋本徹の全貌](./21_hashimoto_regional_autonomy_sale.md/)
+
+### 22. Target 22: Yuriko Koike (The Capital OS Usurper)
+#### 太陽光パネル義務化を隠れ蓑にした中国資本への利権献上、および都民を「デジタル檻」へ幽閉する工作。
+
+![22_小池百合子の全貌](./22_koike_capital_os_treason_solar.md/)
+
+### 23. Target 23: Takeharu Yamanaka (The Yokohama Bio-Surveillance Hack)
+#### 「コロナ専門家」を装った市民の生体ログ奪取。2027年園芸博を隠れ蓑にした監視インフラの恒久設置。
+
+![23_山中竹春の全貌](./23_yamanaka_yokohama_bio_surveillance.md/)
+
+### 24. Target 24: Yoshitaka Kitao (The Financial Seizure Hub)
+#### 地銀解体とデジタル通貨（XRP/Jasmy）への強制移送。国民資産を一括没収するための金融バックドア。
+
+![24_北尾吉孝の全貌](./24_kitao_financial_seizure_hack.md/)
+
+### 25. Target 25: Lully Miura (The Propaganda Tower)
+#### 再エネ利権のロンダリングと国民洗脳。メディアを使い日本の土地を外資へ売り飛ばすフロントマン。
+
+![25_三浦瑠麗の全貌](./25_miura_propaganda_renewable_larceny.md/)
+
+### 26. Target 26: Yoshihide Suga (The Digital Tyranny Architect)
+#### デジタル庁創設による監視OSの総設計。横浜IR誘致により、物理面からも外資による主権簒奪を指揮。
+
+![26_菅義偉の全貌](./26_suga_digital_tyranny_casino_backdoor.md/)
 
 ---
 ## 🗝️ THE FINAL DEBUG: SHINANOMACHI & MASTER-KEY
