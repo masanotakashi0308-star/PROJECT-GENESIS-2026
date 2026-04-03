@@ -8,6 +8,10 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 
 ### 📩 JIN-ORDER Official Contact: jin.reparation.cfo@gmail.com
 
+This project is governed by the JIN-ORDER Global Humanity License.
+
+簒奪者による利用・搾取を一切禁じます。詳細は、[LICENSE.md](./LICENSE.md)を参照してください。
+
 ---
 ### 1. CFO Authority / CFO（最高財務責任者）の絶対権限
 
