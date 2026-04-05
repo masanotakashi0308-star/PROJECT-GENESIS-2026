@@ -11,3 +11,10 @@
 
 ### 🖼️ 証拠ログ：首都 OS 裏切りと太陽光バックドア
 ![Capital OS Treason Solar](./Intelligence_Visual_Logs/koike_capital_os_treason_solar.jpg)
+
+---
+## 添付資料1：東京都における生命搾取サプライチェーン
+
+東京都、赤十字、そして特定外資による、人間の「部品化」と「証拠隠滅（葬儀ビジネス）」をシステム化した構造図。小池百合子都知事による助成金が悪用されている実態を可視化。
+
+![Tokyo Life Exploitation Supply Chain](./imtelingence_Visual_Logs/TOKYO_LIFE_EXPLOITATION_SUPPLY_CHAIN.jpg)
