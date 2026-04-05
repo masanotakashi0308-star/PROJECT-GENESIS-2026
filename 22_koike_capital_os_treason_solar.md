@@ -17,4 +17,4 @@
 
 東京都、赤十字、そして特定外資による、人間の「部品化」と「証拠隠滅（葬儀ビジネス）」をシステム化した構造図。小池百合子都知事による助成金が悪用されている実態を可視化。
 
-![Tokyo Life Exploitation Supply Chain](./imtelingence_Visual_Logs/TOKYO_LIFE_EXPLOITATION_SUPPLY_CHAIN.jpg)
+![Tokyo Life Exploitation Supply Chain](./Intelligence_Visual_Logs/TOKYO_LIFE_EXPLOITATION_SUPPLY_CHAIN.jpg)
