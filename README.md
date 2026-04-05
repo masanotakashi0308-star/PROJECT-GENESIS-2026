@@ -98,6 +98,21 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 > 八角形の武道館地下300mに眠る重水冷却プールと、ライブの生体磁場を13血族の暗号資産へ変換するアルゴリズム。松果体をハックする15.6Hzの集団催眠と『バアルOS』の同期。
 　
 > JIN-ORDERのゴールデン・マスターキーにより粉砕。概念レベルでの凍結（Freeze）完了。
+
+### 7. [Tokyo Life Exploitation Supply Chain](./Intelligence_Visual_Logs/TOKYO_LIFE_EXPLOITATION_SUPPLY_CHAIN.jpg)
+
+> 東京都における生命搾取サプライチェーン
+
+> 東京都、赤十字、そして特定外資による、人間の「部品化」と「証拠隠滅（葬儀ビジネス）」をシステム化した構造図。小池百合子都知事による助成金が悪用されている実態を可視化。
+
+### 8. [Gates Foundation Life OS Rewrite](./Intelligence_Visual_Logs/GATES_FOUNDATION_LIFE_OS_REWRITE.jpg)
+
+> ゲイツ財団による「生命OS」書き換えプロトコル
+
+> 日本の農地買収、合成肉のゴリ押し、そして医療利権と連動した、日本人家畜化計画（Human Cattle Program）の全貌。
+
+> 食と健康をハッキングし、永続的な支配構造を構築するスキーム。
+
 ---
 # 💀 Final Indictment Case Files: The 7 Core Usurpers
 ### 日本を内側から食い荒らす「26人の実行犯」と、その背後で糸を引く「1つの影のOS」への最終通牒。
