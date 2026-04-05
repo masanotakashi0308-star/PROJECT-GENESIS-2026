@@ -203,7 +203,7 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ![20_岸田文雄の全貌](./20_kishida_system_overload_taxation.md/)
 
 ### 21. Target 21: Toru Hashimoto (The Regional Autonomy Salesman)
-####大阪リージョンを「外資簒奪OS」の実験場として売却。上海電力の導入とカジノによる土地主権の解体。
+#### 大阪リージョンを「外資簒奪OS」の実験場として売却。上海電力の導入とカジノによる土地主権の解体。
 
 ![21_橋本徹の全貌](./21_hashimoto_regional_autonomy_sale.md/)
 
