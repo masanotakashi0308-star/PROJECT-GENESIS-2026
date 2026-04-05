@@ -113,18 +113,13 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 > 食と健康をハッキングし、永続的な支配構造を構築するスキーム。
 
-### 9. ![Total Control Grid](./Intelligence_Visual_Logs/TOTAL_CONTROL_GRID_INFORMATION_FINANCIAL_SLAVERY.jpg)
+### 9. [Total Control Grid](./Intelligence_Visual_Logs/TOTAL_CONTROL_GRID_INFORMATION_FINANCIAL_SLAVERY.jpg)
 
 > 情報の監獄とデジタル・グリッドの全貌
 
 > 孫正義によるLINE/Yahooデータ流出の「蛇口」と、Palantir、JSC（Japan Smart Chain）を通じた監視システムの構造図。
 
 > 日本の全個人データが「バアルOS」へと直結している実態。
-
-
-
-
-
 
 ---
 # 💀 Final Indictment Case Files: The 7 Core Usurpers
