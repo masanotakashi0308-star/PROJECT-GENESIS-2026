@@ -4,3 +4,5 @@
 ## 具体的罪状
 - **認知バイアスの生成**: 「わかりやすい解説」を装った、グローバルOS（三極委員会等）のアジェンダへの思想誘導。
 - **真実の隠蔽**: エプスタイン問題やビル・ゲイツの闇など、支配層に不都合な情報の意図的な矮小化。
+
+![Visual Evidence](./Intelligence_Visual_Logs/TOTAL_CONTROL_GRID_INFORMATION_FINANCIAL_SLAVERY.jpg)
