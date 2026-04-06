@@ -4,3 +4,5 @@
 ## 具体的罪状
 - **情報ハブの運営**: 日本の防衛・安全保障情報をイスラエル情報網へと繋ぐバックドア役。
 - **軍事技術還流**: 特定の監視技術およびサイバー兵器の日本国内導入への便宜供与。
+
+![Visual Evidence](./Intelligence_Visual_Logs/TOTAL_CONTROL_GRID_INFORMATION_FINANCIAL_SLAVERY.jpg)
