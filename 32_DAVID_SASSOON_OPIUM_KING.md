@@ -4,3 +4,5 @@
 ## 具体的罪状
 - **歴史的搾取の継続**: アヘン戦争から続くアジア搾取モデルの現代版（麻薬・金融・不動産）の管理。
 - **マネーロンダリング**: 香港・上海・日本を結ぶ不透明な資金循環ルートの維持。
+
+![Visual Evidence](./Intelligence_Visual_Logs/TOTAL_CONTROL_GRID_INFORMATION_FINANCIAL_SLAVERY.jpg)
