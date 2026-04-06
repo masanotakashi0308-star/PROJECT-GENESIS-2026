@@ -5,3 +5,5 @@
 - **支配OSの構築**: アイゼンバーグ・グループを通じた、日本の戦後復興の裏での利権独占。
 - **核プロトコル**: 日本の原子力政策および兵器転用可能な技術ネットワークの構築。
 - **地下ネットワーク**: イスラエル情報部と日本の政財界を結ぶ「影のホットライン」の確立。
+
+![Eisenberg Shadow](./Intelligence_Visual_Logs/TOTAL_CONTROL_GRID_INFORMATION_FINANCIAL_SLAVERY.jpg)
