@@ -1,3 +1,9 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+このファイルは **[JIN-ORDER Global Humanity License](./LICENSE.md)** によって保護されています。
+簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
+閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
+
+---
 # Target 43: House of Orange (The Master OS: Historical Dominion)
   オラニエ家（オランダ王室）：マスターOS・歴史的支配
 
