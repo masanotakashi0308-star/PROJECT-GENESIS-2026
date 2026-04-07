@@ -7,6 +7,9 @@
 # 💀 Indictment Case: 01_KONO_INFO_SURVEILLANCE
 
 ## VISUAL EVIDENCE
+
+![Core Executor Evidence](./Intelligence_Visual_Logs/JAPAN_USURPATION_CORE_EXECUTORS.jpg)
+
 ![Visual Evidence](./Intelligence_Visual_Logs/evidence_01_kono_surveillance.jpg)
 
 「デジタル庁（Digital Agency）」と「J-LIS」を直結させ、国民の全口座と健康情報を外資クラウド（AWS/Azure）へ流し込むゲートキーパーとしての物証。
