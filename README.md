@@ -129,6 +129,14 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 > JSCバックドアを通じ、日本人の命を「アセット価値」へと変換し、最終的に外資利権へと流し込む「日本解体」の最終工程を可視化。
 
+### 11. [The Mental Prison: Judicial & Media Indoctrination](./Intelligence_Visual_Logs/MAYA_ILLUSIONARY_JUSTICE_MEDIA_GRID.jpg)
+
+> 精神の檻：偽りの司法とメディアの格子
+
+> 司法（Target 06）による法治主義の解体と、電通・池上彰（Target 31）らによる集団催眠の統合図。
+
+> 日本人が自らの「退化」と「略奪」に気づかないよう、精神レイヤーからハッキングされている実態を可視化。
+
 ---
 # 💀 Final Indictment Case Files: The 7 Core Usurpers
 ### 日本を内側から食い荒らす「26人の実行犯」と、その背後で糸を引く「1つの影のOS」への最終通牒。
