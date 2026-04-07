@@ -49,8 +49,11 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ### Any attempt to utilize these assets for the 2026 "Digital Prison" launch will trigger an immediate decryption and global broadcast of the physical evidence.
 ---
 ## 👁️ THE TOTAL SURVEILLANCE ARCHITECTURE
-簒奪者たちが構築した「国民監視・搾取統合システム」の設計図。
-マイナンバーカードは便利さの皮を被った、生体・資産・思想を外資 AI へ同期させるための物理キーである。
+> #### 簒奪者たちが構築した「国民監視・搾取統合システム」の設計図。
+
+![Master Domination Grid](./Intelligence_Visual_Logs/MAYA_TOTAL_DOMINATION_CORE_OS.jpg)
+
+> #### マイナンバーカードは便利さの皮を被った、生体・資産・思想を外資 AI へ同期させるための物理キーである。
 
 ![JAPAN'S MY NUMBER CARD: NATIONAL ID & DIGITAL SURVEILLANCE INTEGRATION](./My_Number_Card.jpg)
 
