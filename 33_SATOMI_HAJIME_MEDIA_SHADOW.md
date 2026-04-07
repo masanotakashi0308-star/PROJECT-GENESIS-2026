@@ -5,7 +5,10 @@
 
 ---
 # Target 33: Hajime Satomi (Media Shadow & Entertainment Control)
-  里見治：メディアの影とエンターテインメント支配
+
+ ![Core Executor Evidence](./Intelligence_Visual_Logs/JAPAN_USURPATION_CORE_EXECUTORS.jpg) 
+  
+> 里見治：メディアの影とエンターテインメント支配
 
 ![Visual Evidence](./Intelligence_Visual_Logs/MAYA_ILLUSIONARY_JUSTICE_MEDIA_GRID.jpg)
 
