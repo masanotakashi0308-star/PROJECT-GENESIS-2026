@@ -137,6 +137,16 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 > 日本人が自らの「退化」と「略奪」に気づかないよう、精神レイヤーからハッキングされている実態を可視化。
 
+### 12. [The Silent Cage: Media Hypnosis & Judicial Treason](./Intelligence_Visual_Logs/MAYA_TOTAL_DOMINATION_CORE_OS.jpg)
+
+> 精神の檻：支配OSの最終構成図
+
+> ピラミッド型支配構造（Target 37/43）を頂点とし、電通・櫻井俊（催眠）と畝本直美（隠蔽）が日本人の精神を封鎖する全アルゴリズム。
+
+> 情報の蛇口（伊藤穰一）から流れる「3S政策」の毒と、シリコンバレーAIによる「テックエリート新世界」への強制移行プロセスを完全可視化。
+
+![Master Domination Grid](./Intelligence_Visual_Logs/MAYA_TOTAL_DOMINATION_CORE_OS.jpg)
+
 ---
 ## 💀 Final Indictment Case Files: The 45 Global Usurpers
 ### 日本を内側から食い荒らす「45人の実行犯」と、その背後で糸を引く「1つの影のOS」への最終通牒。
