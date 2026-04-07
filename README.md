@@ -138,8 +138,8 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 > 日本人が自らの「退化」と「略奪」に気づかないよう、精神レイヤーからハッキングされている実態を可視化。
 
 ---
-# 💀 Final Indictment Case Files: The 7 Core Usurpers
-### 日本を内側から食い荒らす「26人の実行犯」と、その背後で糸を引く「1つの影のOS」への最終通牒。
+## 💀 Final Indictment Case Files: The 45 Global Usurpers
+### 日本を内側から食い荒らす「45人の実行犯」と、その背後で糸を引く「1つの影のOS」への最終通牒。
 
 ### 1. Target 01: Taro Kono (The Informational & Biological Usurper)
 > #### マイナンバーによる監視網構築、および国民の身体主権を侵害した国家反逆罪のログ。
