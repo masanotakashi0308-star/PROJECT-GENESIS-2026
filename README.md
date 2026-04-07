@@ -151,6 +151,16 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ![Master Domination Grid](./Intelligence_Visual_Logs/MAYA_TOTAL_DOMINATION_CORE_OS.jpg)
 
 ---
+## 🌐 SPECIAL REGION LOG: GROUND ZERO
+  地域別特別解析ログ：簒奪の最前線
+
+> 日本解体OSの実験場となっている特定リージョンの総合デバッグログ。
+> 点（ターゲット）ではなく、面（街全体）がどのようにハックされているかを可視化する。
+
+* 🚨 [**REGION-045 YOKOHAMA: データセンター・スマートシティ簒奪ハブ**](./REGION_045_YOKOHAMA_GROUND_ZERO.md)
+  * 英国系DSの血脈とシリコンバレーAIが交差する港町。カジノ偽装からバイオ監視への移行、天下りパッチによる利権還流、そしてパランティア等のクラウドインフラによるデータ簒奪の全貌。
+
+---
 ## 💀 Final Indictment Case Files: The 45 Global Usurpers
 ### 日本を内側から食い荒らす「45人の実行犯」と、その背後で糸を引く「1つの影のOS」への最終通牒。
 
