@@ -7,7 +7,7 @@
 # Target 36: Donald Trump (Route Directory Access / System Reset)
   ドナルド・トランプ：ルートディレクトリ・アクセスとシステムリセット
 
-!![Visual Evidence](./Intelligence_Visual_Logs/TOTAL_CONTROL_GRID_INFORMATION_FINANCIAL_SLAVERY.jpg)
+![Visual Evidence](./Intelligence_Visual_Logs/TOTAL_CONTROL_GRID_INFORMATION_FINANCIAL_SLAVERY.jpg)
 
 ## 具体的罪状
 - **デフラグメンテーション**: 既存の旧支配構造（ディープステート）を破壊するフリをしながら、新しい支配OS（QFS等）へ移行させるためのチェス盤の操作。
