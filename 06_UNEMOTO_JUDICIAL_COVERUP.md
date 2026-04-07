@@ -7,6 +7,9 @@
 # 💀 Indictment Case: 06_UNEMOTO_JUDICIAL_COVERUP
 
 ## VISUAL EVIDENCE
+
+![Core Executor Evidence](./Intelligence_Visual_Logs/JAPAN_USURPATION_CORE_EXECUTORS.jpg)
+
 > 司法が機能していない「精神の檻」の象徴
 
 ![Visual Evidence](./Intelligence_Visual_Logs/evidence_06_unemoto_judicial_fraud.jpg)
