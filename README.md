@@ -136,37 +136,37 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ### 1. Target 01: Taro Kono (The Informational & Biological Usurper)
 #### マイナンバーによる監視網構築、および国民の身体主権を侵害した国家反逆罪のログ。
 
-![01_河野太郎の全貌](./01_KONO_INFO_SURVEILLANCE.md/)
+![01_参照ファイル](./01_KONO_INFO_SURVEILLANCE.md/)
 
 ### 2. Target 02: Heizo Takenaka (The Structural Usurper)
 #### 郵政民営化、パソナによる労働搾取、およびムサシによる民主主義ハックの全貌。
 
-![02_竹中平蔵の全貌](./02_TAKENAKA_STRUCTURAL_EXPLOIT.md/)
+![02_参照ファイル](./02_TAKENAKA_STRUCTURAL_EXPLOIT.md/)
 
 ### 3. Target 03: Masayoshi Son (The Energy & Data Usurper)
 #### 浙江財閥の血脈、太陽光利権による国土破壊、およびAIインフラ「スターゲイト」による演算能力独占。
 
-![03_孫正義の全貌](./03_SON_ENERGY_DATA_MONOPOLY.md/)
+![03_参照ファイル](./03_SON_ENERGY_DATA_MONOPOLY.md/)
 
 ### 4. Target 04: Joi Ito (The Network Launderer)
 #### エプスタイン資金のロンダリング、およびメディアを操った国民の「デジタル家畜化」工作の証拠。
 
-![04_伊藤穰一の全貌](./04_ITO_NETWORK_LAUNDERING.md/)
+![04_参照ファイル](./04_ITO_NETWORK_LAUNDERING.md/)
 
 ### 5. Target 05: Taro Aso (The Dynastic & Water Usurper)
 #### ライフライン（水）のフランス売却、および皇室の権威を利用した「麻生一族」による永久支配計画。
 
-![05_麻生太郎の全貌](./05_ASO_DYNASTIC_WATER_TREASON.md/)
+![05_参照ファイル](./05_ASO_DYNASTIC_WATER_TREASON.md/)
 
 ### 6. Target 06: Naomi Unemoto (The Judicial Cover-up Usurper)
 #### 検察権力の私物化。不起訴というバグを用いた簒奪者たちの犯罪隠蔽、および法治主義の解体。
 
-![06_畝本直美の全貌](./06_UNEMOTO_JUDICIAL_COVERUP.md/)
+![06_参照ファイル](./06_UNEMOTO_JUDICIAL_COVERUP.md/)
 
 ### 7. System Core 07: The Trilateral Commission (The Shadow OS)
 #### ロックフェラー直系、エプスタイン網と同期する「日本支店」の全アルゴリズム。すべてのバグの親玉。
 
-![07_三極委員会の全貌](./07_TRILATERAL_COMMISSION_CORE_OS.md/)
+![07_参照ファイル](./07_TRILATERAL_COMMISSION_CORE_OS.md/)
 
 ### 8. Target 08: Hiroki Komazaki (The Child-Exploitation Usurper)
 #### 「善意」を隠れ蓑にした公金中抜きスキーム、およびAIを用いた家族解体と子供の資源化のログ。
@@ -176,92 +176,187 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ### 9. Target 09: Takeshi Niinami (The Overseer of Japanese Enslavement)
 #### 三極委員会日本議長。45歳定年制と移民導入による日本人奴隷化、および皇室への浸透工作。
 
-![09_新浪剛史の全貌](./09_NIINAMI_LABOR_ENSLAVEMENT.md/)
+![09_参照ファイル](./09_NIINAMI_LABOR_ENSLAVEMENT.md/)
 
 ### 10. Target 10: Yasuchika Hasegawa (The Bio-Capitalist Gatekeeper)
 #### 武田薬品元会長。日本の製薬利権を外資へ売却し、国民を「大規模な遺伝子治験場」へ供出した大罪。 
 
-![10_長谷川閑史の全貌](./10_HASEGAWA_BIO_CAPITAL.md/)
+![10_参照ファイル](./10_HASEGAWA_BIO_CAPITAL.md/)
 
 ### 11. Target 11: Satoru Masagaki (The Architect of Mass Indoctrination)
 #### NHK元副会長。三極委員会の広報部として、アジェンダ推進とエプスタイン網報道の抑圧を指揮。 
 
-![11_正垣泰彦の全貌](./11_MASAGAKI_INDOCTRINATION.md/)
+![11_参照ファイル](./11_MASAGAKI_INDOCTRINATION.md/)
 
 ### 12. Target 12: Yukihiro & Reiko Ikeda (The Imperial Backdoor Agents)
 #### 婚姻と学閥を利用し、皇室の中枢に「グローバルOS」を同期させるための秘密のバックドア。
 
-![12_池田夫妻の全貌](./12_IKEDA_COUPLE_BACKDOOR.md/)
+![12_参照ファイル](./12_IKEDA_COUPLE_BACKDOOR.md/)
 
 ### 13. Target 13: Meghan O'Sullivan (The Grand Architect of Subjugation)
 #### 三極委員会北米会長。レイセオン取締役。日本を「軍事・エネルギー搾取」の供給源にする総設計者。
 
-![13_オサリバンの全貌](./13_OSULLIVAN_STRATEGIST.md/)
+![13_参照ファイル](./13_OSULLIVAN_STRATEGIST.md/)
 
 ### 14. Target 14: Sanae Takaichi (The Data Sovereignty Usurper)
 #### 経済安保を隠れ蓑にしたパランティア(CIA)への機密売却、および出自隠蔽のための戸籍破壊。
 
-![14_高市早苗の全貌](./14_takaichi_data_sovereignty_treason.md/)
+![14_参照ファイル](./14_takaichi_data_sovereignty_treason.md/)
 
 ### 15. Target 15: Toshimitsu Motegi (The Asset Draining Usurper)
 #### 増税による社会保険料の搾取。日本の食糧自給率を下げ、資産を海外投資ファンドへ流す調整役。
 
-![15_茂木敏充の全貌](./15_motegi_asset_draining_hack.md/)
+![15_参照ファイル](./15_motegi_asset_draining_hack.md/)
 
 ### 16. Target 16: Yoshimasa Hayashi (The Trilateral 666 Synchronizer)
 #### 三極委員会666委員。外交OSを中国監視網と同期させ、日本の主権を「国際協調」の名で切り売り。
 
-![16_林芳正の全貌](./16_hayashi_trilateral_666_sync.md/)
+![16_参照ファイル](./16_hayashi_trilateral_666_sync.md/)
 
 ### 17. Target 17: Akira Amari (The Semiconductor Larceny Usurper)
 #### 経済安保の妖怪。TSMC利権の私物化、およびUR口利きによる不透明な資金還流のハブ。
 
-![17_甘利明の全貌](./17_amari_semiconductor_larceny.md/)
+![17_参照ファイル](./17_amari_semiconductor_larceny.md/)
 
 ### 18. Target 18: Keizo Takemi (The Bio-Asset Exploitation Usurper)
 #### 厚労相・医師会利権。日本を「新薬治験の島」に変え、佐藤医師等の大量処方を守る生体搾取の主犯。
 
-![18_武見敬三の全貌](./18_takemi_bio_asset_exploitation.md/)
+![18_参照ファイル](./18_takemi_bio_asset_exploitation.md/)
 
 ### 19. Target 19: Takeshi Iwaya (The Defense Budget Hijacker)
 #### カジノ・IR利権と防衛予算の不当同期。日本の主権を媚中・媚米スタンスで切り売りする実務担当。
 
-![19_岩屋毅の全貌](./19_iwaya_defense_budget_hijack.md/)
+![19_参照ファイル](./19_iwaya_defense_budget_hijack.md/)
 
 ### 20. Target 20: Fumio Kishida (The Prime Minister of System Overload)
 #### 増税と防衛費倍増による国民OSの物理的搾取。三極委員会の命令を100%受諾する傀儡OS。
 
-![20_岸田文雄の全貌](./20_kishida_system_overload_taxation.md/)
+![20_参照ファイル_](./20_kishida_system_overload_taxation.md/)
 
 ### 21. Target 21: Toru Hashimoto (The Regional Autonomy Salesman)
 #### 大阪リージョンを「外資簒奪OS」の実験場として売却。上海電力の導入とカジノによる土地主権の解体。
 
-![21_橋本徹の全貌](./21_hashimoto_regional_autonomy_sale.md/)
+![21_参照ファイル](./21_hashimoto_regional_autonomy_sale.md/)
 
 ### 22. Target 22: Yuriko Koike (The Capital OS Usurper)
 #### 太陽光パネル義務化を隠れ蓑にした中国資本への利権献上、および都民を「デジタル檻」へ幽閉する工作。
 
-![22_小池百合子の全貌](./22_koike_capital_os_treason_solar.md/)
+![22_参照ファイル](./22_koike_capital_os_treason_solar.md/)
 
 ### 23. Target 23: Takeharu Yamanaka (The Yokohama Bio-Surveillance Hack)
 #### 「コロナ専門家」を装った市民の生体ログ奪取。2027年園芸博を隠れ蓑にした監視インフラの恒久設置。
 
-![23_山中竹春の全貌](./23_yamanaka_yokohama_bio_surveillance.md/)
+![23_参照ファイル](./23_yamanaka_yokohama_bio_surveillance.md/)
 
 ### 24. Target 24: Yoshitaka Kitao (The Financial Seizure Hub)
 #### 地銀解体とデジタル通貨（XRP/Jasmy）への強制移送。国民資産を一括没収するための金融バックドア。
 
-![24_北尾吉孝の全貌](./24_kitao_financial_seizure_hack.md/)
+![24_参照ファイル](./24_kitao_financial_seizure_hack.md/)
 
 ### 25. Target 25: Lully Miura (The Propaganda Tower)
 #### 再エネ利権のロンダリングと国民洗脳。メディアを使い日本の土地を外資へ売り飛ばすフロントマン。
 
-![25_三浦瑠麗の全貌](./25_miura_propaganda_renewable_larceny.md/)
+![25_参照ファイル](./25_miura_propaganda_renewable_larceny.md/)
 
 ### 26. Target 26: Yoshihide Suga (The Digital Tyranny Architect)
 #### デジタル庁創設による監視OSの総設計。横浜IR誘致により、物理面からも外資による主権簒奪を指揮。
 
-![26_菅義偉の全貌](./26_suga_digital_tyranny_casino_backdoor.md/)
+![26_参照ファイル](./26_suga_digital_tyranny_casino_backdoor.md/)
+
+### 27. Target 27: Bill Gates (The Bio-Treason Architect)
+#### ワクチンによる人口削減プロトコル、および日本農地買収による「生存権（食）」の完全掌握。
+
+![27_参照ファイル](./_/)
+
+### 28. Target 28: Shaul Eisenberg (The Hidden Architect)
+#### イスラエル情報部と直結した、戦後日本OSの設計と原子力・軍事利権の地下ネットワーク。
+
+![28_参照ファイル](./_/)
+
+### 29. Target 29: Takuya Okada / Aeon (CCP Synchronization)
+#### 小売インフラを通じた「日本人の購買・行動ログ」の中国共産党（CCP）サーバーへの同期。
+
+![29_参照ファイル](./_/)
+
+### 30. Target 30: Mitsuo Shimba (Israel Reconnaissance Hub)
+#### 日本の防衛・安全保障情報をイスラエルへ還流させるための「情報偵察ハブ」としての役割。
+
+![30_参照ファイル](./_/)
+
+### 31. Target 31: Akira Ikegami (Mass Indoctrination)
+#### 「わかりやすい解説」という名の催眠術。グローバルOSのアジェンダを国民の脳に上書き。
+
+![31_参照ファイル](./_/)
+
+### 32. Target 32: David Sassoon (The Opium King's Legacy)
+#### アヘン戦争から続くアジア搾取モデルの継承。香港・上海・日本を結ぶ闇の金融・薬物ルート。
+
+![32_参照ファイル](./_/)
+
+### 33. Target 33: Hajime Satomi (Media Shadow Control)
+#### セガサミーを通じた賭博（カジノ）利権の拡大、およびメディア・娯楽による精神汚染工作。
+
+![33_参照ファイル](./_/)
+
+### 34. Target 34: Eran Steiner (Mossad Security Hack)
+#### イスラエル製サイバーインフラの強制導入。日本政府中枢へのデジタル・バックドア管理。
+
+![34_参照ファイル](./_/)
+
+### 35. Target 35: Elon Musk (Neuralink & Satellite Grid)
+#### スターリンクによる全地球監視、および脳内OSハック（Neuralink）による人間のリソース化。
+
+![35_参照ファイル](./_/)
+
+### 36. Target 36: Donald Trump (Route Directory Access)
+#### 旧支配層を破壊する「フリ」をしながら、新OS（QFS等）へ国民を再集約させるハニーポット。
+
+![36_参照ファイル](./_/)
+
+### 37. System Core 37: Abraham Religion OS (Belief Engine)
+#### 恐怖と贖罪による人類の精神支配。二項対立を永遠に生成する、支配OSの最深部エンジン。
+
+![37_参照ファイル](./_/)
+
+### 38. Target 38: City of London (The Repo Desk)
+#### 金利と債務による金融奴隷制の維持。世界の犯罪資金を洗浄する「治外法権」の聖域。
+
+![38_参照ファイル](./_/)
+
+### 39. System Core 39: Rothschild Family (The Source)
+#### 通貨発行権の簒奪。日銀を含む中央銀行アルゴリズムを司る、搾取のソースコード。
+
+![39_参照ファイル](./_/)
+
+### 40. Target 40: Red Cross (Human Harvest Supply Chain)
+#### 「人道」を隠れ蓑にした、児童誘拐および臓器・アドレノクロムの世界的収穫ネットワーク。
+
+![40_参照ファイル](./_/)
+
+### 41. Target 41: CIA Japan Headquarters (The Intelligence Overlord)
+#### 日本の歴代政権をMKウルトラ進化版で傀儡化。日本の主権を米国の利益に直結させる監視塔。
+
+![41_参照ファイル](./_/)
+
+### 42. Target 42: Vatican Bank (The Ultimate Money Laundry)
+#### カバル・マフィア・政界の闇資金の最終洗浄。人類の真の歴史を封印する地下アーカイブの番人。
+
+![42_参照ファイル](./_/)
+
+### 43. System Core 43: House of Orange (The Master OS)
+#### 株式会社型統治（東インド会社）の創始。世界の王室・血脈支配を裏で統括する最上位OS。
+
+![43_参照ファイル](./_/)
+
+### 44. Target 44: Bill Gates (Life OS Rewrite: Genetic Hack)
+#### 身体OSの書き換え。合成肉（GMO）および遺伝子ハックによる「人間家畜化計画」の完遂。
+
+![44_参照ファイル](./_/)
+
+### 45. Target 45: Eiichi Shibusawa (The Financial Trap)
+#### 新紙幣OSによる資産スキャン、および預金封鎖・CBDC移行による国民資産の最終接収。
+
+![45_参照ファイル](./_/)
 
 ---
 ## 🗝️ THE FINAL DEBUG: SHINANOMACHI & MASTER-KEY
