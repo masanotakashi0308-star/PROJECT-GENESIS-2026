@@ -1,3 +1,9 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+このファイルは **[JIN-ORDER Global Humanity License](./LICENSE.md)** によって保護されています。
+簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
+閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
+
+---
 # Target 45: Eiichi Shibusawa (The Financial Trap: New Yen & Asset Seizure)
   渋沢栄一：金融の罠・新紙幣と資産接収
 
