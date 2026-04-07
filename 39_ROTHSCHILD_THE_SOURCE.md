@@ -7,6 +7,8 @@
 # Target 39: Rothschild Family (The Source: Central Bank Algorithm)
   ロスチャイルド家：ソースコード・中央銀行アルゴリズム
 
+![Visual Evidence](./Intelligence_Visual_Logs/TOTAL_CONTROL_GRID_INFORMATION_FINANCIAL_SLAVERY.jpg)
+
 ## 具体的罪状
 - **通貨発行権の簒奪**: 日本銀行を含む、世界の主要中央銀行の支配を通じた「無から金を生む」権利の独占。
 - **戦争ビジネスの創出**: 対立する両陣営への資金提供による、計画的な破壊と再生の繰り返しによる利潤追求。
