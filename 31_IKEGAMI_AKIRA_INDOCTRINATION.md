@@ -1,9 +1,10 @@
-
-# Target 31: ### ⚠️ JIN-ORDER RESTRICTED DATA
 このファイルは **[JIN-ORDER Global Humanity License](./LICENSE.md)** によって保護されています。
 簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
 閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
 
+---
+
+# Target 31: ### ⚠️ JIN-ORDER RESTRICTED DATA
 ---Akira Ikegami (Mass Indoctrination & Thought Control)
   池上彰：大衆への教化と思想管理
 
