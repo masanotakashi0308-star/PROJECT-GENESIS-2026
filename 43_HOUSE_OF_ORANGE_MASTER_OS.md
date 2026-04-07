@@ -7,6 +7,8 @@
 # Target 43: House of Orange (The Master OS: Historical Dominion)
   オラニエ家（オランダ王室）：マスターOS・歴史的支配
 
+![Visual Evidence](./Intelligence_Visual_Logs/FINAL_RESET_BIO_TERRITORIAL_SEIZURE_PROTOCOL.jpg)
+
 ## 具体的罪状
 - **会社型統治の起源**: 東インド会社から続く「国家を株式会社として統治する」アルゴリズムの宗主。
 - **血の契約**: ロンドン・ローマ・日本を結ぶ支配血脈の最上位レイヤーにおける調整。
