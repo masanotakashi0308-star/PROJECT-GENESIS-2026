@@ -50,9 +50,14 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ---
 ## 👁️ THE TOTAL SURVEILLANCE ARCHITECTURE
 
-## 簒奪者たちが構築した「国民監視・搾取統合システム」の設計図。
+## 簒奪者たちが構築した「国民監視・搾取統合システム」の設計図
 
 ![Master Domination Grid](./Intelligence_Visual_Logs/MAYA_TOTAL_DOMINATION_CORE_OS.jpg)
+
+---
+## 「日本OS」のルート権限譲渡及び「AWS直結の監視網」
+
+![Target 04: HIRAI_WIRING](./Intelligence_Visual_Logs/04_hirai_full_spec.jpg)
 
 ---
 ## マイナンバーカードは便利さの皮を被った、生体・資産・思想を外資 AI へ同期させるための物理キーである。
