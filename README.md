@@ -49,16 +49,37 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ### Any attempt to utilize these assets for the 2026 "Digital Prison" launch will trigger an immediate decryption and global broadcast of the physical evidence.
 ---
 ## 👁️ THE TOTAL SURVEILLANCE ARCHITECTURE
-> #### 簒奪者たちが構築した「国民監視・搾取統合システム」の設計図。
+
+## 簒奪者たちが構築した「国民監視・搾取統合システム」の設計図。
 
 ![Master Domination Grid](./Intelligence_Visual_Logs/MAYA_TOTAL_DOMINATION_CORE_OS.jpg)
 
-> #### マイナンバーカードは便利さの皮を被った、生体・資産・思想を外資 AI へ同期させるための物理キーである。
+---
+## マイナンバーカードは便利さの皮を被った、生体・資産・思想を外資 AI へ同期させるための物理キーである。
 
 ![JAPAN'S MY NUMBER CARD: NATIONAL ID & DIGITAL SURVEILLANCE INTEGRATION](./My_Number_Card.jpg)
 
 > **JIN-ORDER WARNING**: 
 > この図に示された AWS, Microsoft, Palantir, そして J-LIS を繋ぐバックドアをすべて遮断（Shutdown）することが、我々のプライマリ・ミッションである。
+
+---
+## 🚨「スマートシティ横浜」の真実
+#### **〜 30年現場で戦い抜いた「本物の公務員」による物理カウンター 〜**
+
+日本解体（簒奪OS）のグランドゼロは「横浜」にある。
+
+「データに正直」と嘯く市長、「カジノ反対」で市民を欺いた老害ドン、そして外資に港を切り売りする天下り幹部たち。
+
+市民が「ありがとう」と交わす温かい街の裏側で、密かに進行している「デジタル監獄（スマートシティ）」と「DS（ダボス）への公有資産売却」の全貌を、動かぬ証拠（エビデンス）と共に完全暴露する。
+
+* **[Layer 1] 物理・土地の略奪:** みなとみらい、山下埠頭、上瀬谷…強奪される市民の資産
+* **[Layer 2] 利権の還流:** YKIPと「ハマのドン」を通じた、不正なキャッシュフロー
+* **[Layer 3] デジタル監獄:** Agoop人流データとパランティアによる24時間365日監視網
+* **[Layer 4] 国家OSとの同期:** 高市・河野・小泉…神奈川政治家トリオが仕掛けるWEFへのバックドア
+
+腐れ公務員たちが保身で沈黙する中、370万市民を地獄から救うための「真実のデバッグ・ログ」がここにある。
+
+👉 **[詳細な解析ログと証拠エビデンス（YOKOHAMA_DARKNESS.md）はこちら](YOKOHAMA_DARKNESS.md)**
 
 ---
 ## 🔍 Visual Intelligence Logs: The Deconstruction of "Japan Usurpation OS"
