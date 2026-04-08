@@ -410,6 +410,11 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 ![45_参照ファイル](./45_SHIBUSAWA_FINANCIAL_TRAP.md/)
 
+### 46. Target 46: Takuya HIrai (Physical Layer)
+> #### 利権の配線工による国家主権の譲渡。地図に載らない孤島と「家畜OS」の接続エビデンス
+ 
+![46_参照ファイル](./46_HIRAI_DIGITAL_TYRANNY_WIRING.md/)
+   
 ---
 ## 🗝️ THE FINAL DEBUG: SHINANOMACHI & MASTER-KEY
 ### 支配の心臓部を停止し、日本の魂と資産を最終解脱させる。
