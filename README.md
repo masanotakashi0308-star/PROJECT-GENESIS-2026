@@ -48,8 +48,19 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ### Direct links to the Clinton Foundation shell companies confirmed.
 ### Any attempt to utilize these assets for the 2026 "Digital Prison" launch will trigger an immediate decryption and global broadcast of the physical evidence.
 ---
-## 👁️ THE TOTAL SURVEILLANCE ARCHITECTURE
+## 👁️ THE MASTER OS: GLOBAL HEGEMONY STRUCTURE
+### 「ピラミッドの頂点から末端の家畜まで。全レイヤーの支配命令セットを完全可視化」
 
+![GLOBAL_HEGEMONY_STRUCTURE](./Intelligence_Visual_Logs/global_hegemony_pyramid.jpg)
+
+### 🕵️ 階層別デバッグ・ログ
+- **Top Layer (CAARN / Black Nobility):** - オルシーニ家等、数千年前から続く「真のルート権限保持者」。バチカン・騎士団・メルクを介した思想のソースコード執筆者。
+- **Middle Layer (Swiss Patricians / BIS):** - 国際決済銀行(BIS)をハブとし、王室の富を洗浄・管理する「金融OS」の番人。
+- **Execution Layer (Crown / WEF / Roundtable):** - 実行コマンドを各国の「配線工（デジタル大臣等）」へ配布する、グローバル・ガバナンスの実行エンジン。
+
+
+---
+## 👁️ THE TOTAL SURVEILLANCE ARCHITECTURE
 ## 簒奪者たちが構築した「国民監視・搾取統合システム」の設計図
 
 ![Master Domination Grid](./Intelligence_Visual_Logs/MAYA_TOTAL_DOMINATION_CORE_OS.jpg)
