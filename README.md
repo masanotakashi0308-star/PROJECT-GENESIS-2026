@@ -244,7 +244,7 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ### 8. Target 08: Hiroki Komazaki (The Child-Exploitation Usurper)
 > #### 「善意」を隠れ蓑にした公金中抜きスキーム、およびAIを用いた家族解体と子供の資源化のログ。
 
-![08_駒崎弘樹の全貌](./08_KOMAZAKI_CHILD_EXPLOITATION.md/)
+![08_参照ファイル](./08_KOMAZAKI_CHILD_EXPLOITATION.md/)
 
 ### 9. Target 09: Takeshi Niinami (The Overseer of Japanese Enslavement)
 > #### 三極委員会日本議長。45歳定年制と移民導入による日本人奴隷化、および皇室への浸透工作。
@@ -435,7 +435,12 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 > #### 利権の配線工による国家主権の譲渡。地図に載らない孤島と「家畜OS」の接続エビデンス
  
 ![46_参照ファイル](./46_HIRAI_DIGITAL_TYRANNY_WIRING.md/)
-   
+
+### 47. Target 47: Agustín Carstens (BIS Bank Top)
+> #### グローバル金融OSの基本仕様を決定し、日本銀行などの下位ノードへコマンドを送信する不可視のパイプライン
+ 
+![47_参照ファイル](./47_AGUSTIN_CARSTENS_BIS.md/)
+
 ---
 ## 🗝️ THE FINAL DEBUG: SHINANOMACHI & MASTER-KEY
 ### 支配の心臓部を停止し、日本の魂と資産を最終解脱させる。
