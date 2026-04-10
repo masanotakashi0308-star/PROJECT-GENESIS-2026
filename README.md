@@ -394,15 +394,15 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 ![34_参照ファイル](./34_ERAN_STEINER_MOSSAD_MONEY.md/)
 
-### 35. Target 35: Elon Musk (Neuralink & Satellite Grid)
-> #### スターリンクによる全地球監視、および脳内OSハック（Neuralink）による人間のリソース化。
+### 35. Target 35: Sam Altman (OpenAI / AI Cognitive OS)
+> #### AIを用いた思考データの独占と人類の認知OSハッキング。AGIを通じた「デジタル神権政治」の構築。
 
-![35_参照ファイル](./35_ELON_MUSK_EXTERNAL_UNIT.md/)
+![35_参照ファイル](./35_SAM_ALTMAN_COGNITIVE_OS.md/)
 
-### 36. Target 36: Donald Trump (Route Directory Access)
-> #### 旧支配層を破壊する「フリ」をしながら、新OS（QFS等）へ国民を再集約させるハニーポット。
+### 36. Target 36: Xi Jinping (The Red Dragon / CCP CAGE Core)
+> #### 「天網」等によるデジタル全体主義（CAGE）の構築と、生体データおよび命の搾取インフラの稼働。
 
-![36_参照ファイル](./36_TRUMP_ROUT_DIRECTORY_ACCESS.md/)
+![36_参照ファイル](./36_XI_JINPING_RED_DRAGON_CAGE.md/)
 
 ### 37. System Core 37: Abraham Religion OS (Belief Engine)
 > #### 恐怖と贖罪による人類の精神支配。二項対立を永遠に生成する、支配OSの最深部エンジン。
@@ -424,10 +424,10 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 ![40_参照ファイル](./40_RED_CROSS_HUMAN_HARVEST.md/)
 
-### 41. Target 41: CIA Japan Headquarters (The Intelligence Overlord)
-> #### 日本の歴代政権をMKウルトラ進化版で傀儡化。日本の主権を米国の利益に直結させる監視塔。
+### 41. Target 41: Washington D.C. / CIA (The Kinetic Enforcer)
+> #### 世界の監視・金融データを基に、破壊工作や暗殺を実行する物理的・軍事的な「最終執行ノード」。
 
-![41_参照ファイル](./41_CIA_JAPAN_HEADQUARTERS.md/)
+![41_参照ファイル](./41_CIA_WASHINGTON_DC_KINETIC.md/)
 
 ### 42. Target 42: Vatican Bank (The Ultimate Money Laundry)
 > #### カバル・マフィア・政界の闇資金の最終洗浄。人類の真の歴史を封印する地下アーカイブの番人。
@@ -459,7 +459,23 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
  
 ![47_参照ファイル](./47_AGUSTIN_CARSTENS_BIS.md/)
 
+### 48. Target 48: Kaz Hirai (Sony / Emotion Harvest)
+> #### エンターテインメントとイメージセンサーを通じた、大衆の感情データの収穫と精神の鎮静化プロトコル。
+
+![48_参照ファイル](./48_KAZ_HIRAI_EMOTION_HARVEST.md/)
+
+### 49. Target 49: Peter Thiel (Palantir / The All-Seeing Eye)
+> #### 全地球の分断されたデータベースを統合する究極の監視OSの構築と、AIによる予測的取り締まり。
+
+![49_参照ファイル](./49_PETER_THIEL_PALANTIR_EYE.md/)
+
+### 50. Target 50: Emmanuel Macron (The Pretender / CFA Franc Shadow)
+> #### CFAフラン体制によるアフリカ諸国の金融的植民地支配と、グローバル金融資本（ロスチャイルド）のプロキシ。
+
+![50_参照ファイル](./50_EMMANUEL_MACRON_PRETENDER.md/)
+
 ---
+
 ## 🗝️ THE FINAL DEBUG: SHINANOMACHI & MASTER-KEY
 ### 支配の心臓部を停止し、日本の魂と資産を最終解脱させる。
 
