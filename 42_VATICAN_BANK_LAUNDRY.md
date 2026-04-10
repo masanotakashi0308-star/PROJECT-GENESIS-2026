@@ -7,7 +7,7 @@
 # 💀 System Core 42: Vatican Bank (The Divine Laundry Node)
 ## バチカン銀行（IOR）：神聖資金洗浄ノード / 信仰の隠れ蓑
 
-![Vatican Bank Laundry Blueprint](../Intelligence_Visual_Logs/42_vatican_laundry_blueprint.jpg)
+![Vatican Bank Laundry Blueprint](./Intelligence_Visual_Logs/42_vatican_laundry_blueprint.jpg)
 
 ## 🔗 具体的罪状 (Identified Bugs & Exploits)
 
