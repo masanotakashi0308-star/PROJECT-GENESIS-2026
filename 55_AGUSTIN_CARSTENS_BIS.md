@@ -7,7 +7,7 @@
 # 💀 System Core 55: Agustin Carstens (BIS / The CBDC Kernel)
 ## アグスティン・カルステンス：BIS / 「プログラマブル・マネー」による完全金融支配と5階層ピラミッドの頂点
 
-![Agustin Carstens BIS Blueprint](./assets/55_agustin_carstens_bis.jpg)
+![Agustin Carstens BIS Blueprint](./Intelligence_Visual_Logs/55_agustin_carstens_bis.jpg)
 
 ## 🔗 最終デバッグ解析：核心的なバグと脅威 (Identified Bugs & Exploits)
 
