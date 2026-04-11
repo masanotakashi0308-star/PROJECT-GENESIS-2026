@@ -7,7 +7,7 @@
 # 💀 System Core 53: Tedros Adhanom (WHO / Global Bio-Security OS)
 ## テドロス・アダノム：WHO / 「健康」を人質にした生体OS支配とパンデミック条約
 
-![Tedros WHO Bio-Security Blueprint](../Intelligence_Visual_Logs/53_tedros_bio_os.jpg)
+![Tedros WHO Bio-Security Blueprint](./Intelligence_Visual_Logs/53_tedros_bio_os.jpg)
 
 ## 🔗 最終デバッグ解析：核心的なバグと脅威 (Identified Bugs & Exploits)
 
