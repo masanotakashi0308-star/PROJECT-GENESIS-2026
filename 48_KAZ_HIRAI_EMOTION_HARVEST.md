@@ -7,7 +7,7 @@
 # 💀 System Core 48: Kaz Hirai (Sony / Emotion Harvest)
 ## 平井一夫：ソニー / 感情の収穫とエンタメを通じた精神管理
 
-![Kaz Hirai Blueprint](./assets/48_kaz_hirai_emotion.jpg)
+![Kaz Hirai Blueprint](./Intelligence_Visual_Logs/48_kaz_hirai_emotion.jpg)
 
 ## 🔗 最終デバッグ解析：核心的なバグと脅威 (Identified Bugs & Exploits)
 ### Emotion Harvesting (感情データの収穫)
