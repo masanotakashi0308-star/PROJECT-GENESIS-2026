@@ -474,6 +474,11 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 ![50_参照ファイル](./50_EMMANUEL_MACRON_PRETENDER.md/)
 
+### 51. Target 51: Larry Fink (BlackRock / The Asset Leviathan)
+> #### 巨大資本による「見えない経済独裁」とESG強制インストール。
+
+![51_参照ファイル](./51_LARRY_FINK_LEVIATHAN.md/)
+
 ---
 
 ## 🗝️ THE FINAL DEBUG: SHINANOMACHI & MASTER-KEY
