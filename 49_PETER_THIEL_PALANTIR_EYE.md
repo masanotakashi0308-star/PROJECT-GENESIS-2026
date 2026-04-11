@@ -7,7 +7,7 @@
 # 💀 System Core 49: Peter Thiel (Palantir / The All-Seeing Eye)
 ## ピーター・ティール：パランティア / 全地球監視網の設計・予測的取り締まり
 
-![Peter Thiel Palantir Blueprint](./assets/49_peter_thiel_palantir.jpg)
+![Peter Thiel Palantir Blueprint](./Intelligence_Visual_Logs/49_peter_thiel_palantir.jpg)
 
 ## 🔗 最終デバッグ解析：核心的なバグと脅威 (Identified Bugs & Exploits)
 ### The All-Seeing Eye (全知全能の眼の実装)
