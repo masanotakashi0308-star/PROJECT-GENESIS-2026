@@ -439,6 +439,12 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 
 
+
+### 55. Target 55: Agustin Carstens (BIS / The CBDC Kernel)
+> #### 「プログラマブル・マネー」による完全金融支配と5階層ピラミッドの頂点。
+![55_参照ファイル](./55_AGUSTIN_CARSTENS_BIS.md/)
+
+
 ---
 
 ## 🗝️ THE FINAL DEBUG: SHINANOMACHI & MASTER-KEY
