@@ -7,7 +7,7 @@
 # 💀 System Core 51: Larry Fink (BlackRock / The Asset Leviathan)
 ## ラリー・フィンク：ブラックロック / 巨大資本による「見えない経済独裁」とESG強制インストール
 
-![Larry Fink BlackRock Blueprint](./assets/51_larry_fink_leviathan.jpg)
+![Larry Fink BlackRock Blueprint](./Intelligence_Visual_Logs/51_larry_fink_leviathan.jpg)
 
 ## 🔗 最終デバッグ解析：核心的なバグと脅威 (Identified Bugs & Exploits)
 
