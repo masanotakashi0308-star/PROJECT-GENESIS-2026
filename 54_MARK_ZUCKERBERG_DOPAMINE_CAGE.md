@@ -7,7 +7,7 @@
 # 💀 System Core 54: Mark Zuckerberg (Meta / The Dopamine CAGE)
 ## マーク・ザッカーバーグ：Meta / 「ドーパミン・ケージ」による認知のハッキングと仮想現実への幽閉
 
-![Zuckerberg Meta Blueprint](../Intelligence_Visual_Logs/54_mark_zuckerberg_meta.jpg)
+![Zuckerberg Meta Blueprint](./Intelligence_Visual_Logs/54_mark_zuckerberg_meta.jpg)
 
 ## 🔗 最終デバッグ解析：核心的なバグと脅威 (Identified Bugs & Exploits)
 
