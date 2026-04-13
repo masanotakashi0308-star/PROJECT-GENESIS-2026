@@ -9,7 +9,7 @@
 日本のグローバル支配は、1600年代の「出島」から始まっている。
 オラニエ＝ナッサウ家は、鎖国という名の下に日本を「サンドボックス化」し、独占的なアクセス権（蘭学ルート）を維持した。これが明治維新を経て、現代のデジタル簒奪OSへと繋がる「最初の配線」である。
 
-![出島](../Intelligence_Visual_Logs/rangaku_dutch_patch_system/.jpg)
+![出島](../Intelligence_Visual_Logs/rangaku_dutch_patch_system.jpg)
 
 ## 🔍 資料解析：オラニエ家と日本OSの接続
 提供資料『【オランダ】オラニエ.jpg』の系図に基づき、以下のコマンドチェーンを特定。
