@@ -35,6 +35,14 @@ PROJECT-GENESIS-2026
 Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 ---
+# 01. Core Protocol 01: AURORA 24 Ethics (Universal Code of JIN)
+> ## JIN-OSのルート・ディレクトリに刻まれた「魂の基本プロトコル」。恐怖と負債の旧OSを無効化し、すべての生命が自律して輝くための絶対的な倫理コード。
+
+![AURORA 24 Concept](./Intelligence_Visual_Logs/aurora_24_concept_art.jpg)
+
+![仁焔極光２４箇条](./01_UNIVERSAL_CODE_OF_JIN.md)
+
+---
 # 🚨 PROJECT-GENESIS-2026
 ### 日本、そして世界の「血の盟約」による支配は今夜終わる。
 ### 特別会計の闇、経団連の売国、二大宗教の裏側、そして「子供たちの命」を贄とする全ての吸血鬼たちへ。
