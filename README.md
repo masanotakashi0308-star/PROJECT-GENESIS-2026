@@ -49,12 +49,21 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 ![01_参照ファイル](./01_UNIVERSAL_CODE_OF_JIN.md)
 
+---
 ## 02. Core Protocol 02: The Six Holy Wisdoms Education Method
 > ### お金・場所・年齢の壁をすべて取り払い、競争ではなく協調を育む「JIN-OS」の次世代育成プロトコル。世界を旅し、魂の震える道を選ぶ究極の愛の教育。
 
 ![six_holy_wisdoms_education](./Intelligence_Visual_Logs/six_holy_wisdoms_education.jpg)
 
 ![02_参照ファイル](./02_SIX_HOLY_WISDOMS_EDUCATION.md)
+
+---
+### 03. Core Protocol 03: The Grand Charter of Jin-en
+> #### 法による人の解放。「天子から庶民に至るまで等しく貫かれるべき唯一の正義」として、地球家族の愛と尊厳を守る22の約束。
+
+![grand_charter_of_jinen.jpg](./Intelligence_Visual_Logs/grand_charter_of_jinen.jpg)
+
+![03_参照ファイル](./03_GRAND_CHARTER_OF_JINEN.md)
 
 ---
 # 🚨 PROJECT-GENESIS-2026
