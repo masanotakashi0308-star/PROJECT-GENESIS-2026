@@ -444,7 +444,9 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 > #### 「プログラマブル・マネー」による完全金融支配と5階層ピラミッドの頂点。
 ![55_参照ファイル](./55_AGUSTIN_CARSTENS_BIS.md/)
 
-
+### 56. Target 56: Jared Kushner (The System Interface / Israel Kernel)
+> #### イスラエル・カーネル（モサド8200部隊）と世界の監視・金融網を接続する、感情をデリートした冷徹なシステム・インターフェース。
+![56_参照ファイル](./56_JARED_KUSHNER_ISRAEL_KERNEL.md/)
 
 
 
