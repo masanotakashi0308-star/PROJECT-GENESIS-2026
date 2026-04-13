@@ -58,23 +58,29 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ![02_参照ファイル](./02_SIX_HOLY_WISDOMS_EDUCATION.md)
 
 ---
-### 03. Core Protocol 03: The Grand Charter of Jin-en
-> #### 法による人の解放。「天子から庶民に至るまで等しく貫かれるべき唯一の正義」として、地球家族の愛と尊厳を守る22の約束。
+## 03. Core Protocol 03: The Grand Charter of Jin-en
+> ### 法による人の解放。「天子から庶民に至るまで等しく貫かれるべき唯一の正義」として、地球家族の愛と尊厳を守る22の約束。
 
 ![grand_charter_of_jinen.jpg](./Intelligence_Visual_Logs/grand_charter_of_jinen.jpg)
 
 ![03_参照ファイル](./03_GRAND_CHARTER_OF_JINEN.md)
 
 ---
-### 04. Core Protocol 04: The Political Transparency Act (AI監査官とブロックチェーン選挙)
-> #### AIは民を監視するツールではなく、権力を監視し不正を未然に防ぐ盾である。
-> #### 政治資金の完全デジタル化とブロックチェーンによる「裏金ゼロ・不正選挙ゼロ」の実現。
+## 04. Core Protocol 04: The Political Transparency Act (AI監査官とブロックチェーン選挙)
+> ### AIは民を監視するツールではなく、権力を監視し不正を未然に防ぐ盾である。
+> ### 政治資金の完全デジタル化とブロックチェーンによる「裏金ゼロ・不正選挙ゼロ」の実現。
 
 ![blockchain_citizen_monitor.jpg](./Intelligence_Visual_Logs/blockchain_citizen_monitor.jpg)
 
 ![04_参照ファイル](./04_POLITICAL_TRANSPARENCY_ACT.md)
 
+---
+## 05. Core Protocol 05: SSID (自己主権型ID) & データ防壁
+> ### 「一括管理の否定と、個別分散の肯定」。東のCAGEや西のパランティアに「魂と生体データ」を絶対に渡さないための究極のデータ防壁。
 
+![ssid_distributed_concept.jpg](./Intelligence_Visual_Logs/ssid_distributed_concept.jpg)
+
+![05_参照ファイル](./05_SSID_DATA_SHIELD.md)
 
 ---
 # 🚨 PROJECT-GENESIS-2026
