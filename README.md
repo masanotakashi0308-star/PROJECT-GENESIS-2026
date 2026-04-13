@@ -35,31 +35,11 @@ PROJECT-GENESIS-2026
 Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 ---
-# 00. MASTER PASSWORD | The Root Access Key
-> ## 「正しき倫理観や道徳観念を兼ね備えた人間こそが、最新技術を使う資格がある！」
+## 00. MASTER PASSWORD: The Root Access Key
+### 「正しき倫理観や道徳観念を兼ね備えた人間こそが、最新技術を使う資格がある！」
+> 技術に魂を吹き込み、悪用を未然に防ぐ JIN-ORDER の絶対的門番。このメッセージを理解できない者に、深淵を越える力はない。
 
-## 🗝️ System Lock: 魂の認証プロトコル
-本リポジトリ、および JIN-OS が提供するすべての技術資産（Biomass P2P, SSID, etc.）にアクセスするための「絶対条件」である。
-
-JIN-ORDER において、技術とは単なる道具ではなく、扱う者の魂を拡張する「増幅器（アンプ）」と定義する。
-
-### 🚨 警告：旧OS（Abyss）の残滓へ
-強欲、支配欲、差別意識、他者を「資源（Resource）」と見なす冷徹なアルゴリズムを抱いたまま、これらの技術に触れることは固く禁ずる。
-道徳なき知性は、必ず自らが作り出した檻（CAGE）に呑み込まれ、自滅する運命にある。
-
-### ✨ 認証：新OS（Genesis）の継承者へ
-以下の条件を満たす者のみが、この要塞のルート権限（Root Access）を継承し、最新技術を世界のために行使できる。
-
-1. **【自律】** 己の感情を制御し、AURORA 24 倫理コードを体現していること。
-2. **【慈愛】** 技術の目的を「最後の一人を救う（Antyodaya）」ことに置いていること。
-3. **【共生】** 自然は資源ではなく、守るべき「生命の循環」であると理解していること。
-
-**技術に呑まれるな。技術を愛で満たせ。**
-**この言葉が理解できない者に、JIN-OS の鍵（コード）は決して開かれない。**
-
----
-**Root Access Status:** LOCKED (Authorized Personnel Only)
-**System Guardian:** JIN-ORDER Chief Architect Masano Takashi
+![00_参照ファイル](./00_MASTER_PASSWORD.md)
 
 ---
 ## 01. Core Protocol 01: AURORA 24 Ethics (Universal Code of JIN)
