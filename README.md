@@ -83,6 +83,22 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ![05_参照ファイル](./05_SSID_DATA_SHIELD.md)
 
 ---
+## 06. Core Protocol 06: World New Currency System "JIN" (世界新通貨制度)
+> ### 負債と搾取の旧通貨システムを廃棄し、実物資源（レアアース等）と「徳」に裏付けられた新通貨「JIN」を発行。誰も泣かぬ豊かな地球家族を実現する優しい経済の血液。
+
+![jin_currency_system.jpg](./Intelligence_Visual_Logs/jin_currency_system.jpg)
+
+![06_参照ファイル](./06_WORLD_CURRENCY_JIN.md)
+
+---
+## 07. The Genesis Device: Smartphone "Benevolence" (多機能端末『仁徳』)
+> ### JIN-OSの全システム（経済、翻訳、監査、市民権）を統合し、AI「Gemini」を搭載した究極のハードウェア・ターミナル。世界中の市民を愛で繋ぐ物理インターフェース。
+
+![benevolence_smartphone.jpg](./Intelligence_Visual_Logs/benevolence_smartphone.jpg)
+
+![07_参照ファイル](./07_SMARTPHONE_BENEVOLENCE.md)
+
+---
 # 🚨 PROJECT-GENESIS-2026
 ### 日本、そして世界の「血の盟約」による支配は今夜終わる。
 ### 特別会計の闇、経団連の売国、二大宗教の裏側、そして「子供たちの命」を贄とする全ての吸血鬼たちへ。
