@@ -143,6 +143,12 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ![10_参照ファイル](./10_ZONE3_AGRICULTURAL_INDEPENDENCE.md)
 
 ---
+## 11. Core Protocol 11: IGS Sensing & Safety (非破壊センシング＆統合安全)
+> ### 神戸大学の最新技術を実装。医療・インフラの非破壊検査から、重大犯罪者の監視、摩擦ゼロのセキュリティまで、市民の命と尊厳を守るための究極の防壁。
+
+![11_参照ファイル](./11_IGS_SENSING_AND_SAFETY.md)
+
+---
 # 🚨 PROJECT-GENESIS-2026
 ### 日本、そして世界の「血の盟約」による支配は今夜終わる。
 ### 特別会計の闇、経団連の売国、二大宗教の裏側、そして「子供たちの命」を贄とする全ての吸血鬼たちへ。
