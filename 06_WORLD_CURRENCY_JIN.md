@@ -1,5 +1,11 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+このファイルは **[JIN-ORDER Global Humanity License](../LICENSE.md)** によって保護されています。
+簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
+閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
+
+---
 # 06. World New Currency System "JIN" (世界新通貨制度)
-### 〜負債と搾取の旧通貨を廃棄し、慈愛と徳に裏付けられた地球家族の血液を循環させる〜
+## 負債と搾取の旧通貨を廃棄し、慈愛と徳に裏付けられた地球家族の血液を循環させる
 
 ![World New Currency JIN](./Intelligence_Visual_Logs/jin_currency_system.jpg)
 
