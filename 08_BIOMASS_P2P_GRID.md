@@ -4,8 +4,8 @@
 閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
 
 ---
-# 08. Biomass P2P Grid & ZONE 1 Energy Revolution (自律分散型エネルギー網)
-## 〜すべての技術プロセスの基盤となる、クリーンで自給自足可能なエネルギーシステムの構築〜
+## 08. Biomass P2P Grid & ZONE 1 Energy Revolution (自律分散型エネルギー網)
+### すべての技術プロセスの基盤となる、クリーンで自給自足可能なエネルギーシステムの構築
 
 ![JIN-OS Technological Foundation](./Intelligence_Visual_Logs/jinos-technological-foundation.jpg)
 
