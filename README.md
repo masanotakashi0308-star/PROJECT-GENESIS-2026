@@ -1,7 +1,7 @@
 # JIN-ORDER: PROJECT-GENESIS-2026
 ## 日本解放：血の誓約と特別会計の解体プロトコル。誰も傷つけず、誰も泣かぬ地球家族の創生へ
 
-![JIN-OS Genesis Vision](./assets/image_5287cf.jpg)
+![JIN-OS Genesis Vision](./assets/old_os_5_stages.jpg)
 
 ## ⚠️ THE THREAT: 我々が上書きする「旧OS」の真の構造
 JIN-OSのプロトコルを読み進める前に、現在この世界を支配しているバグ（旧OS）の全貌を確認してください。我々の目的は、この搾取構造を「非破壊」で愛のシステムへと上書きすることです。
@@ -29,12 +29,12 @@ JIN-ORDERが提唱する、新時代を構築するための12の基幹プロト
 ### PHASE 3: 安全保障と地球規模の守護
 | No. | プロトコル名 | 内容概要 |
 | :--- | :--- | :--- |
-| 11 | **IGS Sensing & Safety** | [IGS技術](./EXPOSE_TRUE_STRUCTURE.md)による非破壊検査。尊厳を守るセキュリティ。 |
+| 11 | **IGS Sensing & Safety** | [IGS技術](./11_IGS_SENSING_AND_SAFETY.md)による非破壊検査。尊厳を守るセキュリティ。 |
 | 12 | **Planetary Disaster Prevention** | 地球と月のデータを統合したAI超早期警戒。全端末へ命の避難ルートを配信。 |
 
 ---
 ## 🌐 惑星防衛 & AI超早期警戒ビジョン
-![Planetary Shield](./assets/planetary_disaster_prevention.jpg)
+![Planetary Shield](./Intelligence_Visual_Logs/planetary_disaster_prevention.jpg)
 > *地球の鼓動を察知し、月からの視座で命を守る。JIN-OSは一瞬の恐怖にも市民を置き去りにしません。*
 
 ---
