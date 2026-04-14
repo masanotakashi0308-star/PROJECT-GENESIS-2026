@@ -6,6 +6,7 @@
 ---
 # 11. IGS Non-Destructive Sensing & Integrated Safety Protocol
 ## 対象を傷つけず真実を見抜き、市民の命と尊厳を全方位で守護する
+![IGS Sensing and Safety Vision](./Intelligence_Visual_Logs/igs_integrated_safety.jpg)
 
 ### JIN-OSは、神戸大学発のIGS（Integral Geometry Science）技術を社会実装し、医療、産業、インフラ、そして治安維持のあらゆる場面で「非破壊・可視化」による革命を起こす。
 
