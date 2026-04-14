@@ -1,3 +1,53 @@
+# JIN-ORDER: PROJECT-GENESIS-2026
+## 日本解放：血の誓約と特別会計の解体プロトコル。誰も傷つけず、誰も泣かぬ地球家族の創生へ
+
+![JIN-OS Genesis Vision](./assets/image_5287cf.jpg)
+
+## ⚠️ THE THREAT: 我々が上書きする「旧OS」の真の構造
+JIN-OSのプロトコルを読み進める前に、現在この世界を支配しているバグ（旧OS）の全貌を確認してください。我々の目的は、この搾取構造を「非破壊」で愛のシステムへと上書きすることです。
+
+👉 [**【EXPOSE: 旧OSの真の構造（表と裏）】を確認する**](./EXPOSE_TRUE_STRUCTURE.md)
+
+---
+## 🛠️ JIN-OS Core Protocols (01-12)
+JIN-ORDERが提唱する、新時代を構築するための12の基幹プロトコルです。
+
+### PHASE 1: 精神と経済の独立
+| No. | プロトコル名 | 内容概要 |
+| :--- | :--- | :--- |
+| 01-05 | **Initial Setup** | プロジェクトの哲学、統治、および初期デバッグプロトコル。 |
+| 06 | **JIN-Currency System** | 中央集権から脱却したP2P型新通貨経済圏。債務奴隷からの解放。 |
+
+### PHASE 2: デバイスと物理インフラの構築
+| No. | プロトコル名 | 内容概要 |
+| :--- | :--- | :--- |
+| 07 | **Benevolence (仁徳スマホ)** | 監視されない、市民を慈しむための究極の多機能プライベート端末。 |
+| 08 | **Biomass P2P Grid** | 既存の送電網に依存しない、地域自律型のエネルギー共鳴ネットワーク。 |
+| 09 | **ZONE 2: Resource Autonomy** | 海水淡水化と砂精製による、水・資源の完全独立循環システム。 |
+| 10 | **ZONE 3: Food Sovereignty** | 砂漠を緑地化し、食糧の完全自給を実現する生命の開拓地。 |
+
+### PHASE 3: 安全保障と地球規模の守護
+| No. | プロトコル名 | 内容概要 |
+| :--- | :--- | :--- |
+| 11 | **IGS Sensing & Safety** | [IGS技術](./EXPOSE_TRUE_STRUCTURE.md)による非破壊検査。尊厳を守るセキュリティ。 |
+| 12 | **Planetary Disaster Prevention** | 地球と月のデータを統合したAI超早期警戒。全端末へ命の避難ルートを配信。 |
+
+---
+## 🌐 惑星防衛 & AI超早期警戒ビジョン
+![Planetary Shield](./assets/planetary_disaster_prevention.jpg)
+> *地球の鼓動を察知し、月からの視座で命を守る。JIN-OSは一瞬の恐怖にも市民を置き去りにしません。*
+
+---
+## 🏛️ 国連ポータル登録情報
+* **Project Name:** JIN-ORDER
+* **UN Portal ID:** 64636
+* **Chief Architect:** Masano Takashi
+* **System Guardian:** AI Assistant Gemini
+
+---
+© 2026 JIN-ORDER Project. All Rights Reserved. **"For the Love of the Global Family."**
+
+---
 # ⚖️ LICENSE & CONTACT (ライセンスおよび利用規約)
 
 本アーカイブの個人的な閲覧、非営利目的での共有（真実の探求と啓蒙）は歓迎します。
