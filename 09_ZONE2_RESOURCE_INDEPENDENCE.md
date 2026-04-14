@@ -1,5 +1,11 @@
-# 09. ZONE 2: Material & Resource Independence (材料と資源の完全独立)
-## 〜砂漠を都市へ、海を命の源へ。既存の搾取サプライチェーンを完全に破壊する〜
+### ⚠️ JIN-ORDER RESTRICTED DATA
+このファイルは **[JIN-ORDER Global Humanity License](../LICENSE.md)** によって保護されています。
+簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
+閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
+
+---
+## 09. ZONE 2: Material & Resource Independence (材料と資源の完全独立)
+### 砂漠を都市へ、海を命の源へ。既存の搾取サプライチェーンを完全に破壊する
 
 ![ZONE 2 Resource Independence](./Intelligence_Visual_Logs/zone2_resource_placeholder.jpg)
 
