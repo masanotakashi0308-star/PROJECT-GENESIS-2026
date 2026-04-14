@@ -154,6 +154,8 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ## 12. Core Protocol 12: Planetary Disaster Prevention (地球規模災害防衛 & AI超早期警戒)
 > ### 地球と月のデータを統合したAI予測システム。すべての端末『Benevolence』へ、命を守るための「最適な避難ルート」をリアルタイムで届ける。地球家族を災害の恐怖から解放する究極の盾。
 
+![planetary_disaster_prevention](./Intelligence_Visual_Logs/planetary_disaster_prevention.jpg)
+
 ![12_参照ファイル](./12_PLANETARY_DISASTER_PREVENTION.md)
 
 ---
