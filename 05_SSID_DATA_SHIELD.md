@@ -1,5 +1,11 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+このファイルは **[JIN-ORDER Global Humanity License](../LICENSE.md)** によって保護されています。
+簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
+閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
+
+---
 # 05. SSID (Self-Sovereign Identity) / 自己主権型ID
-## 〜「一括管理の否定と、個別分散の肯定」。魂と生体データは、いかなる権力にも不可侵の聖域とする〜
+## 「一括管理の否定と、個別分散の肯定」。魂と生体データは、いかなる権力にも不可侵の聖域とする
 
 ![SSID Decentralized Concept](./Intelligence_Visual_Logs/ssid_distributed_concept.jpg)
 
