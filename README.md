@@ -144,7 +144,7 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 新通貨「JIN」の健全な循環を維持し、外部の搾取プロトコル（特別会計の闇や日銀クォンタム・コア）からの干渉を物理的・デジタル的に遮断するための防衛システムです。
 
-![Economic Reverse Check Valve](./economic_reverse_check_valve.jpg)
+![Economic Reverse Check Valve](./assets/economic_reverse_check_valve.jpg)
 
 **【この設計図が意味する「日本解放」の要諦】**
 
