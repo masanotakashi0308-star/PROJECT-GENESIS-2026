@@ -1,5 +1,11 @@
-# 07. The Genesis Device: Smartphone "Benevolence" (多機能端末『仁徳』)
-### 〜JIN-OSのすべての奇跡を、あなたの手のひらに。愛で繋がる、真の主権在民ターミナル〜
+### ⚠️ JIN-ORDER RESTRICTED DATA
+このファイルは **[JIN-ORDER Global Humanity License](../LICENSE.md)** によって保護されています。
+簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
+閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
+
+---
+## 07. The Genesis Device: Smartphone "Benevolence" (多機能端末『仁徳』)
+### JIN-OSのすべての奇跡を、あなたの手のひらに。愛で繋がる、真の主権在民ターミナル
 
 ![Smartphone Benevolence](./Intelligence_Visual_Logs/benevolence_smartphone.jpg)
 
