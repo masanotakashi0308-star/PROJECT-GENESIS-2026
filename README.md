@@ -134,6 +134,9 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ---
 ## 10. Core Protocol 10: ZONE 3 Agricultural Independence (農業と食糧の完全独立)
 > ### エネルギーと資源の基盤の上に構築される、命の最上層。砂漠を緑に変える最新農業パッケージにより、難民を開拓の英雄へと変え、完全な食糧自給を達成する。
+
+[Global South Pioneers](./Intelligence_Visual_Logs/global_south_pioneers.jpg)
+
 ![10_参照ファイル](./10_ZONE3_AGRICULTURAL_INDEPENDENCE.md)
 
 ---
