@@ -129,6 +129,8 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ## 09. Core Protocol 09: ZONE 2 Material & Resource Independence (材料と資源の完全独立)
 > ### エネルギー網の上に構築される自給自足の中間層。砂漠の砂を高品質な建築骨材へ転換し、海水から無限の淡水と工業用塩を抽出。既存のサプライチェーンを完全に独立化させる。
 
+![zone2_resource_placeholder](./Intelligence_Visual_Logs/zone2_resource_placeholder)
+
 ![09_参照ファイル](./09_ZONE2_RESOURCE_INDEPENDENCE.md)
 
 ---
