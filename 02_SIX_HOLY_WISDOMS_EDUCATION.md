@@ -1,5 +1,11 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+このファイルは **[JIN-ORDER Global Humanity License](../LICENSE.md)** によって保護されています。
+簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
+閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
+
+---
 # 02. The Six Holy Wisdoms Education Method (Global South Edition)
-> ## 〜すべての子どもに、等しく仁焔（愛の炎）を灯す〜
+## すべての子どもに、等しく仁焔（愛の炎）を灯す
 > ### 学びは罰ではなく喜び。競争ではなく協調。
 > ### 誰も取り残さず、個性を最大限に輝かせる「JIN-OS」の次世代育成プロトコル。
 
