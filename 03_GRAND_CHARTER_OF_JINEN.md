@@ -1,5 +1,11 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+このファイルは **[JIN-ORDER Global Humanity License](../LICENSE.md)** によって保護されています。
+簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
+閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
+
+---
 # 03. The Grand Charter of Jin-en (仁焔世界大憲章)
-# 〜地球家族のための、愛と尊厳の22の約束〜
+# 地球家族のための、愛と尊厳の22の約束
 
 ![The Grand Charter of Jin-en](./Intelligence_Visual_Logs/grand_charter_of_jinen.jpg)
 
