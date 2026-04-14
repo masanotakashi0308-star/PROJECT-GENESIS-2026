@@ -146,6 +146,8 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ## 11. Core Protocol 11: IGS Sensing & Safety (非破壊センシング＆統合安全)
 > ### 神戸大学の最新技術を実装。医療・インフラの非破壊検査から、重大犯罪者の監視、摩擦ゼロのセキュリティまで、市民の命と尊厳を守るための究極の防壁。
 
+![IGS Sensing and Safety Vision](./Intelligence_Visual_Logs/igs_integrated_safety.jpg)
+
 ![11_参照ファイル](./11_IGS_SENSING_AND_SAFETY.md)
 
 ---
