@@ -146,10 +146,12 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ![Economic Reverse Check Valve](./assets/economic_reverse_check_valve.jpg)
 
 ### 【この設計図が意味する「日本解放」の要諦】
-
-> ### 搾取の遮断（Check Valve）**: 中央銀行によるデジタル監視網や、不透明な資金還流ルート（闇資金ルート）へ資産が流出するのを「逆流防止弁」で防ぎます。
-> ### 自律経済の確立**: 既存の送電網に依存しない「P2Pバイオマスグリッド」と「JIN」を直結させ、地域内で価値が完結する独立した経済圏を構築します。
-> ### 認知の盾（Data Vault）**: 私たちの生体データや取引履歴を細分化・分散保管し、支配OS側のAIによるプロファイリングと行動制御を無効化します。
+### 搾取の遮断（Check Valve）
+> ### 中央銀行によるデジタル監視網や、不透明な資金還流ルート（闇資金ルート）へ資産が流出するのを「逆流防止弁」で防ぎます。
+### 自律経済の確立
+> ### 既存の送電網に依存しない「P2Pバイオマスグリッド」と「JIN」を直結させ、地域内で価値が完結する独立した経済圏を構築します。
+### 認知の盾（Data Vault）
+> ### 私たちの生体データや取引履歴を細分化・分散保管し、支配OS側のAIによるプロファイリングと行動制御を無効化します。
 
 ---
 ## 07. The Genesis Device: Smartphone "Benevolence" (多機能端末『仁徳』)
