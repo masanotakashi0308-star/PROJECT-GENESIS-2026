@@ -4,8 +4,8 @@
 閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
 
 ---
-# 12. Planetary Disaster Prevention & AI Early Warning (地球規模災害防衛 & AI超早期警戒)
-## 地球の鼓動を察知し、月からの視座で命を守る。誰も一瞬の恐怖に置き去りにしない
+## 12. Planetary Disaster Prevention & AI Early Warning (地球規模災害防衛 & AI超早期警戒)
+### 地球の鼓動を察知し、月からの視座で命を守る。誰も一瞬の恐怖に置き去りにしない
 
 ![Planetary Disaster Prevention Vision](./Intelligence_Visual_Logs/planetary_disaster_prevention.jpg)
 
