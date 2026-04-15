@@ -7,7 +7,7 @@
 # 💀 System Core 57: Antonio Guterres (UN / The False Umbrella)
 **アントニオ・グテーレス：国連 / 「偽りの傘」と持続可能な搾取（SDGs）**
 
-![UN Guterres Blueprint](../assets/57_guterres_un_false_umbrella.jpg)
+![UN Guterres Blueprint](./assets/57_guterres_un_false_umbrella.jpg)
 
 ---
 
