@@ -8,7 +8,6 @@
 **バイエル・モンサント複合体：アグリビジネスによる命の特許化と食糧支配**
 
 ![Bayer Monsanto Blueprint](../assets/47_bayer_monsanto_cartel.jpg)
-*(※Image Pending: Analyzing Visual Data...)*
 
 ---
 
