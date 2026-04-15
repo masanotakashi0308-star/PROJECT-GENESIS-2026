@@ -17,7 +17,9 @@
 > ### 上海電力などの外国資本（赤い龍のOS）を国内インフラの深枢に引き込み、日本のエネルギー自立を物理的に不可能にする工作。
 
 ## 2. AIインフラ「スターゲイト」による演算能力独占とカルテル
-![Section 3: 5G/6G Bio-Prison](./Intelligence_Visual_Logs/5G_6G_Network_Evolution_Detail.jpg) 
+
+![Section 3: 5G/6G Bio-Prison](./assets/5G_6G_Network_Evolution_Detail.jpg) 
+
 > ### OpenAI、NVIDIA、Palantirへ巨額出資を行い、神経系となるAIコンピューティング基盤を構築し、世界の演算能力（Cognitive Power）を独占。
 > ### Google CloudやAWS（Project Nimbus等）とも深くリンクし、国民の思考ログをリアルタイムで演算し、未来を先制支配する「デジタル独裁OS」の司令塔。
 
