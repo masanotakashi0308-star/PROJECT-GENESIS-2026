@@ -581,9 +581,9 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 > #### 利権の配線工による国家主権の譲渡。地図に載らない孤島と「家畜OS」の接続エビデンス
 ![46_参照ファイル](./46_HIRAI_DIGITAL_TYRANNY_WIRING.md/)
 
-### 47. Target 47: Agustín Carstens (BIS Bank Top)
-> #### グローバル金融OSの基本仕様を決定し、日本銀行などの下位ノードへコマンドを送信する不可視のパイプライン
-![47_参照ファイル](./47_AGUSTIN_CARSTENS_BIS.md/)
+### 47. Target 47: Bayer-Monsanto Complex (The Seed Cartel)
+> #### バイエル・モンサント複合体：アグリビジネスによる命の特許化と食糧支配。
+![47_参照ファイル](./47_BAYER_MONSANTO_AGRI_DOMINANCE.md/)
 
 ### 48. Target 48: Kaz Hirai (Sony / Emotion Harvest)
 > #### エンターテインメントとイメージセンサーを通じた、大衆の感情データの収穫と精神の鎮静化プロトコル。
@@ -621,7 +621,13 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 > #### イスラエル・カーネル（モサド8200部隊）と世界の監視・金融網を接続する、感情をデリートした冷徹なシステム・インターフェース。
 ![56_参照ファイル](./56_JARED_KUSHNER_ISRAEL_KERNEL.md/)
 
+### 57. Target 57: Antonio Guterres (UN / The False Umbrella)
+> #### アントニオ・グテーレス：国連 / 「偽りの傘」と持続可能な搾取（SDGs）。
+![57_参照ファイル](./57_GUTERRES_UN_FALSE_GOVERNANCE.md/)
 
+### 58. Target 58: Rupert Murdoch (News Corp / Cognitive Hacking Engine)
+> #### ルパート・マードック：巨大メディア / 認知戦の司令塔と分断プロパガンダ。
+![58_参照ファイル](./58_MURDOCH_COGNITIVE_WARFARE.md/)
 
 
 ---
