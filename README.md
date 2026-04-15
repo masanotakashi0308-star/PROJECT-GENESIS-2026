@@ -136,6 +136,12 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ## 06. Core Protocol 06: World New Currency System "JIN" (世界新通貨制度)
 > ### 負債と搾取の旧通貨システムを廃棄し、実物資源（レアアース等）と「徳」に裏付けられた新通貨「JIN」を発行。誰も泣かぬ豊かな地球家族を実現する優しい経済の血液。
 
+### 💎 徳 (Virtue) ポイント：愛と貢献の循環
+### JIN-OSは、利益のみを追求する「奪い合う経済」を、貢献を評価する「与え合う経済」へ上書きします。
+
+### 個人（Individual）: 善行（環境保護、人助け、教育）をAIが評価し、新通貨JINを付与。
+### 法人（Corporate）: 地域貢献や環境負荷低減をスコア化。高スコア企業には**「自動減税プロトコル」**を適用し、浮いた資金を地域基金へ還流（逆流防止）させます。
+### 「徳を積むほど、人も企業も豊かになる」——このシンプルなルールが、特別会計の闇を払い、日本を真の独立へと導くエンジンとなります。
 ![jin_currency_system.jpg](./Intelligence_Visual_Logs/jin_currency_system.jpg)
 
 ![06_参照ファイル](./06_WORLD_CURRENCY_JIN.md)
