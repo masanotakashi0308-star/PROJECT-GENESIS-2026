@@ -7,7 +7,7 @@
 # 💀 System Core 58: Rupert Murdoch (News Corp / Cognitive Hacking Engine)
 **ルパート・マードック：巨大メディア / 認知戦の司令塔と分断プロパガンダ**
 
-![Murdoch Media Blueprint](../assets/58_murdoch_cognitive_engine.jpg)
+![Murdoch Media Blueprint](./assets/58_murdoch_cognitive_engine.jpg)
 
 ---
 
