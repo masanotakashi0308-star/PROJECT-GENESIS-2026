@@ -7,7 +7,7 @@
 # 💀 System Core 47: Bayer-Monsanto Complex (The Seed Cartel)
 **バイエル・モンサント複合体：アグリビジネスによる命の特許化と食糧支配**
 
-![Bayer Monsanto Blueprint](../assets/47_bayer_monsanto_cartel.jpg)
+![Bayer Monsanto Blueprint](./assets/47_bayer_monsanto_cartel.jpg)
 
 ---
 
