@@ -1,24 +1,32 @@
 ### ⚠️ JIN-ORDER RESTRICTED DATA
-このファイルは **[JIN-ORDER Global Humanity License](./LICENSE.md)** によって保護されています。
+このファイルは **[JIN-ORDER Global Humanity License](../LICENSE.md)** によって保護されています。
 簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
 閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
 
 ---
-⚠️ JIN-ORDER RESTRICTED DATA
+### ⚠️ JIN-ORDER RESTRICTED DATA: DYNAMIC SURVEILLANCE MODE
 
-# 💀 System Core 41: Washington D.C. / CIA (The Kinetic Enforcer)
+# 💀 System Core 41: CIA Washington DC (Kinetic Execution Node)
 
-**ワシントンD.C. / CIA：物理・軍事の最終執行ノード**
+> **STATUS: PENDING OVERRIDE (デバッグ保留・監視中)**
+> **REASON:** Geopolitical Fluidity & Real-Time Data Harvesting (地政学的流動性とリアルタイムデータ収集)
 
-![CIA Washington Blueprint](../assets/41_cia_kinetic_enforcer.jpg)
-*(※Image Pending: Generating Visual Data...)*
+---
 
-## 🔗 具体的罪状 (Identified Bugs & Exploits)
+## 📡 [MONITORING ACTIVE: 動的監視システム稼働中]
 
-* **Global Kinetic Execution (グローバル物理執行):** Target 38 (City of London) の金融的決定や、Target 49 (Palantir) の監視データを基に、実際の物理的な破壊工作、政権転覆、暗殺を実行するシステムの「暴力装置（腕）」。
-* **Black Budget Pipeline (裏金パイプラインの管理):** Target 33 (Satomi) 等が構築した非合法資金（麻薬・兵器）の流れをロンダリングし、議会の承認を経ない秘密工作（ディープステート・オペレーション）の資金源として運用。
-* **Media Mockingbird (メディア統制プロトコル):** 同盟国のメディアや政治家（日本の清和会等）にエージェントを配置し、アメリカの軍事・外交政策に都合の良い世論を形成する心理戦の実行。
+現在、本ターゲットが関与する世界情勢および支配構造は極めて流動的（Fluid）な状態にある。
+JIN-ORDERは、現時点での早急な「静的プロトコルの確定（Hardcoding）」を避け、本ファイルを**「動的監視ノード（Dynamic Surveillance Node）」**として保留（Pending）ステータスに設定した。
 
-## 🛠️ JIN-ORDER デバッグ・プロトコル (Override Strategy)
+### 🔍 監視中の主な変動パラメータ (Monitored Parameters):
+* **権力構造の再編:** 内部闘争、または外部勢力（他の極）とのパワーバランスの急激な変化。
+* **戦術のシフト:** 物理的制圧（Kinetic）から認知・経済戦（Cognitive/Economic）への移行、またはその逆。
+* **搾取インフラの稼働状況:** JIN-OS展開に影響を与える、対象の資金・データ収集網（CAGE/諜報網）のリアルタイムな拡張と収縮。
 
-* **ブラック・バジェットのブロックチェーン暴露:** 秘密工作に使われる資金の流れを完全にトレースし、一般公開することで、物理的執行部隊の活動リソースを枯渇させる。
+## ⏳ 次期デバッグ・プロトコル (Upcoming Debug Protocol)
+
+現在、対象の行動履歴とシステム脆弱性をリアルタイムで解析中である。
+情勢のベクトルが確定（Lock-on）した段階で、「螺旋の計」を含む最終的な**【非破壊による無効化と上書き（Deconstruction & Override）】**のプロトコルが、本ファイルに自動デプロイされる。
+
+> **"Watching the Abyss. Until the moment it blinks."**
+> *（深淵を見つめ続けよ。奴らが瞬きをする、その瞬間まで。）*
