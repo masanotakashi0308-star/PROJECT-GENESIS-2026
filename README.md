@@ -5,7 +5,7 @@
 ## 📂 PROJECT-GENESIS-2026（光の再構築）
 ### 解体された荒野の上に、全く新しい道徳と技術の融合プロトコルをインストールする「創造の書」。
 
-* [00_MASTER_PASSWORD: 魂の認証プロトコル](../00_MASTER_PASSWORD.md)
+* [00_MASTER_PASSWORD: 魂の認証プロトコル](./00_MASTER_PASSWORD.md)
 * [01_UNIVERSAL_CODE_OF_JIN: 仁焔極光24箇条](./01_UNIVERSAL_CODE_OF_JIN.md)
 * [02_to_03_PHYSICAL_INFRASTRUCTURE: 自立インフラの構築](./level_1/02_PHYSICAL_INFRASTRUCTURE.md)
 * [04_THE_GREAT_REBIRTH: 世界再生のグランドフィナーレ](./level_1/04_THE_GREAT_REBIRTH.md)
