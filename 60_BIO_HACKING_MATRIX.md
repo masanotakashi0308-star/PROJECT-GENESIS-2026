@@ -7,7 +7,7 @@
 
 # Target 60: BIO_HACKING_MATRIX（生体と魂のハッキング）
 
-![Agenda_2030_Global_Blueprint](../assets/Agenda_2030_Global_Blueprint.jpg)
+![Agenda_2030_Global_Blueprint](./assets/Agenda_2030_Global_Blueprint.jpg)
 
 ## ⚙️ バグの構造解析 (Human as Resource)
 ### 人間の生体（DNA）、健康、そして「命のデータ」そのものを新時代の資源として搾取し、管理下に置く究極の非人道OS。
