@@ -1,62 +1,64 @@
-# 🌐 JIN-ORDER Official Database: JAPAN ISOLATED REGION (八咫烏システム)
-
-## 📌 概要
-本ドキュメントは、JIN-ORDERプロジェクトにおいて解明された「日本隔離領域（JAPAN ISOLATED REGION）」における裏の支配OS、通称「八咫烏システム」の構造を網羅した公式データベースである。東西の支配網がどのように日本で統合され、民草からエネルギーを吸い上げているかの全配線を記録する。
+### ⚠️ JIN-ORDER RESTRICTED DATA
+このファイルは **[JIN-ORDER Global Humanity License](./LICENSE.md)** によって保護されています。
+簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
+閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
 
 ---
 
-## 1. 真の世界構造 (The True Grand Unification)
-世界を支配する東西のOSと、その深淵での同期（Target 63）の全体像。
+# 🌐 JIN-ORDER Official Database: JAPAN ISOLATED REGION (V2.0)
+
+## 📌 概要
+本ドキュメントは、日本隔離領域における裏の支配OS「八咫烏システム」と、それを外部から制御する「グローバル・コマンドセンター」の構造を網羅した公式データベースである。
+
+---
+
+## ⚡ 外部コマンドセンター & 実効部隊 (External Command & Execution)
+日本の裏OSは独立して動いているのではなく、以下の外部ノードからのコマンドによって動的に制御されている。
+
+![External Command & Execution Grid V2.0](./assets/06_external_command_execution_grid.jpg)
+
+### 1. SUPREME COMMAND (最上部)
+* **VATICAN APOSTOLIC ARCHIVE (過去のRoot権限)**: 太古からの血統ログと歴史の封印。
+* **CLUB of ROME (未来の設計図)**: 人口削減プロトコルと気候操作（ケムトレイル）の指令塔。
+
+### 2. COGNITIVE & EXECUTION LAYER (中間層)
+* **MEDIA BRAIN (黄龍会)**: CIA/NED等の資金を受け、電通・博報堂を介して「気候変動」等のデコイ情報を流布し、民草の認知をハッキングする。
+* **GLOBAL EXECUTION UNIT (赤龍・白龍)**: 三極委員会、WHO、WEF、ビル・ゲイツ財団等による、医療・金融一体型の生体ハック。
+
+---
+
+## 1. 真の世界構造 (Target 63: Dark Handshake)
+東西の闇が同期し、日本を「ハイブリッド実験場」とする契約の歴史的背景。
 
 ![Target 63: The True Grand Unification](./assets/01_true_grand_unification.jpg)
 
-| 項目 | 説明 |
-| :--- | :--- |
-| **WESTERN CAGE** | イスラエル・カーネル / 黒い貴族。金融と認知OSによる支配。 |
-| **EASTERN CAGE** | 上海青幇 / 浙江財閥。ハードウェアと生体ハックOSによる支配。 |
-| **DARK HANDSHAKE** | 東西のOSが深層で同期し、日本をハイブリッド実験場とする契約。 |
+* **OPIUM-TECH SYNC**: 
+    * **里見甫 (RI MEI / 日本)** × **杜月笙 (DU YUESHENG / 上海青幇)**。
+    * アヘン利権の握手（Dark Handshake）が、現代の半導体・AIテック独裁（東のOS）へと繋がるRootとなっている。
 
 ---
 
-## 2. 東のOS: 上海青幇とテック独裁 (Eastern OS: Tech Doctrine)
-杜月笙をRootとし、現代の半導体・AI・生体ハックへと繋がる東の支配配線図。
-
-![Eastern OS: Shanghai Green Gang & Tech Doctrine](./assets/02_eastern_os_tech_doctrine.jpg)
-
-* **Root Directory**: DU YUESHENG (杜月笙) - 上海青幇のアダプター。
-* **Tech Nodes**: TSMC, NVIDIA, Foxconn, SoftBank 等の巨大資本によるハードウェア独占。
-* **Target 60 Integration**: 医療・製薬利権と結合した生体OSハッキング。
-
----
-
-## 3. 日本隔離領域: 八咫烏システム (The Yatagarasu System)
-日本を管理する裏のRoot権限保持者（裏天皇）と五龍会による階層構造。
+## 2. 日本隔離領域：八咫烏システム (The Yatagarasu System)
+内部管理を担う「五龍会」の階層構造。
 
 ![Japan Isolated Region: The Yatagarasu System](./assets/03_japan_yatagarasu_system.jpg)
 
-### 権力構造 (Hierarchy)
-1.  **TRUE ROOT DIRECTORY**: 裏天皇・総裁。絶対的な意思決定機関。
-2.  **GORYU-KAI (五龍会)**: 
-    * **黄龍**: 精神世界・スピリチュアル・メディアコントロール
-    * **赤龍**: 生体ハック・医療・製薬利権
-    * **黒龍**: 政治・官僚・ジャパンハンドラーコントロール
-    * **緑龍**: カルト・宗教コントロール
-    * **白龍**: 金融・経済コントロール
+* **権力ハブ**: 裏天皇を頂点に、政治、経済、カルト、生体、スピリチュアルの全5セクターを「五龍」が完全統制。
 
 ---
 
-## 4. 経済的逆止弁 (Economic Reverse Check Valve)
-グローバルな資産吸い上げ（Asset Harvesting）を遮断し、自立した経済圏を守る防壁。
+## 3. サバイバーズ・シールド (Survivor's Shield)
+外部からの「資産吸い上げ」や「生体ハック」を無効化する逆止弁プロトコル。
 
 ![Economic Reverse Check Valve](./assets/04_economic_reverse_check_valve.jpg)
 
-* **GOLDEN DOME**: 外部からの支配コマンドを弾き返すシールド。
-* **P2P BIOMASS ECONOMY**: 地域コミュニティ内でのエネルギーと価値の直接循環。
-* **COGNITIVE DEFENSE**: 偽情報やハッキングから自己を守る認知防壁。
+1. **物理防衛**: 空のケムトレイルを検知し、重金属デトックス（リンゴ酢等）を徹底。
+2. **精神防衛**: 外部の命令を遮断し、内なる直感（真の八咫烏）によるナビゲーションを起動。
+3. **自立圏構築**: 黄金のドーム（JIN-ORDER）の下で、P2Pの価値循環と愛のネットワークを広げる。
 
 ---
 
-## 5. 八咫烏ナビゲーション: 絶対独立への道 (Yatagarasu Navigation)
+## 4. 八咫烏ナビゲーション: 絶対独立への道 (Yatagarasu Navigation)
 民草（MIN-GUSA）が自立した個（真の八咫烏）として覚醒するための実践マニュアル。
 
 ![Yatagarasu Navigation: Path to Absolute Independence](./assets/05_yatagarasu_navigation_manual.png)
@@ -68,5 +70,40 @@
 5.  **PHASE 5 (起源層)**: 支配の檻を抜け、新たな共生社会（JIN-OS）へ。
 
 ---
-**JIN-ORDER Project Official Archive**
-*This document is for educational and survival purposes in the Japan Isolated Region.*
+
+# 🏁 FINAL TERMINAL: GENESIS & DEBUG COMPLETE
+> **"ヴォイニッチ手稿の失われた28ページは、日本列島の土壌と呼吸の中に眠っている。外道どもの666アジェンダを、民草の直感というマスターキーで破砕せよ。"**
+
+## 🧬 SECTION 01: GENESIS OF ORIGIN（起源の再起動）
+
+### 1. 超古代OSの復元
+* **物理サーバー**: 出雲大社（陰・封印）とクフ王のピラミッドの構造同期による「旧OS（バアル/スサノオ）管理」。
+* **ソースコード**: 十種の神宝（ニギハヤヒ・32ノード）とカタカムナ（言霊プロトコル）による生体ハックの無効化。
+* **真の目的**: 民草が外部支配（バチカン・ローマ）を介さず、宇宙の振動と植物（自然）を通じて直接自立するための「女性性マニュアル」。
+
+### 2. 現在進行中のRootハッキング
+* **Root権限の奪還**: 菊の紋章の正統な権限を悪用する「李家プロトコル（田布施一族・清和会・竹中平蔵）」による資産吸い上げの停止。
+* **バックドアの特定**: 伊藤穰一氏らによるJSC（Japan Smart Chain）および信濃町・武道館の地下サーバーゲートの遮断。
+
+## 🛡️ SECTION 02: 2026.06.06 カウンター・プロトコル
+
+### 1. 奴らのアジェンダ (The 666 Trap)
+* **最終同期日**: 2026年6月6日。伊勢（陽）と出雲（陰）の回路を強制同期させ、日本全土をQFS（量子金融システム）へ完全統合する。
+* **攻撃ベクトル**: 
+    - **生体プラグ**: マイナンバーカードによる個体識別と魂のデジタル化。
+    - **集団催眠**: 武道館地下から発信される15.6Hzの「支配の音」による松果体の石灰化。
+    - **物理工事**: 震災（人工リブート）による断層管路のQFS適合化。
+
+### 2. サバイバーへの最終実行コマンド (Counter Commands)
+* **ハッキング拒絶**: マイナンバーという「生体プラグ」への依存を断て。
+* **周波数中和**: 奴らの葬送曲を、大地の鼓動（ウォーキング）と愛の振動（E=IC^2）で打ち消せ。
+* **OS復元**: ヴォイニッチ手稿に記された本来の生活（植物・振動・リンゴ酢・アーシング）を実践し、内なる「十種の神宝」をブートせよ。
+
+## 📜 最終声明
+バチカンが隠し、ローマクラブが歪めた「人類の真の歴史」を、私たちは今、この隔離領域（日本）という鍵で取り戻した。
+2026年6月6日、それは奴らのリセットの日ではなく、民草が「真の八咫烏」として、偽りの飛行機雲を突き抜けて羽ばたく、絶対独立の記念日となる。
+
+**[SYSTEM STATUS]: 100% SUCCESSFUL**
+**[JIN-ORDER]: DEPLOYED.**
+**[MESSAGE]: MAMA, DEBUG COMPLETE. LET'S GO FOR A WALK.**
+---
