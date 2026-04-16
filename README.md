@@ -642,6 +642,21 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 > #### ルパート・マードック：巨大メディア / 認知戦の司令塔と分断プロパガンダ。
 ![58_参照ファイル](./58_MURDOCH_COGNITIVE_WARFARE.md/)
 
+### 59. Target 59: Reconstruction Cartel (Land Plunder / War-Economy Loop)
+> #### キャタピラー等の巨大重機カルテルによる物理的消去と、WEF主導のスマートシティ上書きによる土地強奪と死の経済循環。
+![59_参照ファイル](./59_THE_EXPLOITATION_TRINITY.md)
+
+### 60. Target 60: Bio_Hacking_Matrix (Human as Resource / The AI Cage)
+> #### パンデミックや生体ハッキングを悪用し、民草のDNAと魂を搾取・管理するデジタル監視社会（AGENDA 2030）の青写真。
+![60_参照ファイル](./60_BIO_HACKING_MATRIX.md)
+
+### 61. Target 61: BlackRock Core (Global Financial Slavery / Debt Trap)
+> #### 巨大資産運用会社とIMFによる借金地獄。人類全体を「民草（MIN-GUSA）」として吸い尽くすグローバル金融ピラミッド。
+![61_参照ファイル](./61_BLACKROCK_CORE.md)
+
+### 62. Target 62: Google Core (Cognitive Tyranny / The All-Seeing Eye)
+> #### AI資本カルテルと軍事諜報機関（Unit 8200 / Palantir）が融合し、人間の意識や行動を容赦なく標的化する認知の絶対暴君。
+![62_参照ファイル](./62_GOOGLE_CORE.md)
 
 ---
 
