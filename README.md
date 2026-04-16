@@ -658,6 +658,10 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 > #### AI資本カルテルと軍事諜報機関（Unit 8200 / Palantir）が融合し、人間の意識や行動を容赦なく標的化する認知の絶対暴君。
 ![62_参照ファイル](./62_GOOGLE_CORE.md)
 
+### 63. Target 63: The True Root Directory (World Structure Map / Omote vs. Ura)
+> #### 西の認知・金融OSと東の生体・ハードOSを裏で統べる「黒い貴族」と、最下層のテストベッド「日本の荒野」。
+![63_参照ファイル](./63_THE_TRUE_ROOT_DIRECTORY.md)
+
 ---
 
 ## 🗝️ THE FINAL DEBUG: SHINANOMACHI & MASTER-KEY
