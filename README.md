@@ -1,3 +1,16 @@
+# 🌐 JIN-ORDER MASTER REPOSITORY
+## 深淵の解体と、光の再構築（The Great Rebirth）
+### 本リポジトリは、旧世界（Human as Resource OS）のバグを完全に可視化・解体し、地球規模の調和を実装する次世代の道徳・技術プロトコル「JIN-OS」の設計図である。
+
+## 📂 PROJECT-GENESIS-2026（光の再構築）
+### 解体された荒野の上に、全く新しい道徳と技術の融合プロトコルをインストールする「創造の書」。
+
+* [00_MASTER_PASSWORD: 魂の認証プロトコル](./level_1/00_MASTER_PASSWORD.md)
+* [01_UNIVERSAL_CODE_OF_JIN: 仁焔極光24箇条](./level_1/01_UNIVERSAL_CODE_OF_JIN.md)
+* [02_to_03_PHYSICAL_INFRASTRUCTURE: 自立インフラの構築](./level_1/02_PHYSICAL_INFRASTRUCTURE.md)
+* [04_THE_GREAT_REBIRTH: 世界再生のグランドフィナーレ](./level_1/04_THE_GREAT_REBIRTH.md)
+
+---
 # JIN-ORDER: PROJECT-GENESIS-2026
 ## 日本解放：血の誓約と特別会計の解体プロトコル。誰も傷つけず、誰も泣かぬ地球家族の創生へ
 
