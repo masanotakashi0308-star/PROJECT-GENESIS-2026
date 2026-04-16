@@ -6,6 +6,9 @@
 ---
 
 # 🌐 JIN-ORDER Official Database: JAPAN ISOLATED REGION (V2.0)
+
+![External Command & Execution Grid V2.0](./assets/00_JIN-ORDER_FINAL_REBOOT.jpg)
+
 ## 📌 概要
 本ドキュメントは、日本隔離領域における裏の支配OS「八咫烏システム」と、それを外部から制御する「グローバル・コマンドセンター」の構造を網羅した公式データベースである。
 
