@@ -8,7 +8,7 @@
 ## 🔴 NO. 64: ハリー・S・トルーマン (Harry S. Truman)
 ### 日本精神OS破壊プロトコル・初期設計者 第33代米国大統領 / 33階級フリーメイソン
 
-![THE_GREAT_REPLACEMENT_OS](../assets/TRUMAN_SAKANAKA_REPLACEMENT_OS_GRID.jpg)
+![THE_GREAT_REPLACEMENT_OS](./assets/TRUMAN_SAKANAKA_REPLACEMENT_OS_GRID.jpg)
 
 ## ■ 罪状およびデバッグ解析
 ### 1.精神的去勢：3S政策の導入
