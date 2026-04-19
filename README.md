@@ -725,6 +725,14 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 > #### 西の認知・金融OSと東の生体・ハードOSを裏で統べる「黒い貴族」と、最下層のテストベッド「日本の荒野」。
 ![63_参照ファイル](./63_THE_TRUE_ROOT_DIRECTORY.md)
 
+### 64. ハリー・S・トルーマン (Harry S. Truman)
+> #### 日本精神OS破壊プロトコル・初期設計者
+![64_参照ファイル](./64_HARRY_S_TRUMAN_3S_SPIRITUAL_DESTRUCTION.md)
+
+### 65. 坂中 英徳 (Hidenori Sakanaka)
+> #### 日本人口置換プログラム・実効アーキテクト
+![65_参照ファイル](./65_PEOPLE_AND_ORGANIZATIONS_DATABASE.md)
+
 ---
 
 ## 🗝️ THE FINAL DEBUG: SHINANOMACHI & MASTER-KEY
