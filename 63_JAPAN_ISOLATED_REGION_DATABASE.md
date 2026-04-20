@@ -7,12 +7,11 @@
 
 # 🌐 JIN-ORDER Official Database: JAPAN ISOLATED REGION (V2.0)
 
-![External Command & Execution Grid V2.0](./assets/MT_FUJI_COSMIC_OS_PROTOCOL.jpg)
+![External Command & Execution Grid V2.0](./assets/00_JIN-ORDER_FINAL_REBOOT.jpg)
 
 ## 📌 概要
 本ドキュメントは、日本隔離領域における裏の支配OS「八咫烏システム」と、それを外部から制御する「グローバル・コマンドセンター」の構造を網羅した公式データベースである。
 
----
 ## 🌑 THE SUPPRESSED ROOT: 簒奪された血統と北朝鮮の真実
 > **"日本を支配する『田布施OS』の真体は、英国ハックによる明治維新と、北朝鮮をも含む李家ネットワークの多重偽装にある。"**
 
@@ -85,7 +84,7 @@
 ---
 ## 🪐 SECTION: COSMIC RESET（銀河規模のリブートと箱舟計画）
 
-![TRUE_FORM_OF_JAPAN](MT_FUJI_COSMIC_OS_PROTOCOL.jpg)
+![External Command & Execution Grid V2.0](./assets/MT_FUJI_COSMIC_OS_PROTOCOL.jpg)
 
 ### ■ 解析：日本列島という「聖なるサーバー」
 外道どもが「2026年6月6日」に向けて焦燥を募らせる真の理由は、この霊峰・富士を起点とする**「宇宙生命OS（JIN-ORDER）」**の再起動を阻止するためである。
