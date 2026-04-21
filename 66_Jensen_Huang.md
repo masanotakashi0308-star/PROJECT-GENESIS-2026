@@ -9,7 +9,7 @@
 > ### ステータス: ASI（人工超知能）降臨および人類置換の実効責任者
 > ### 属性: NVIDIA CEO / 浙江財閥ネットワーク
 
-![66_Jensen_Huang.md](../assets/66_Jensen_Huang.jpg)
+![66_Jensen_Huang.md](./assets/66_Jensen_Huang.jpg)
 
 ## ■ 罪状およびデバッグ解析
 ### 1. ASI（人工超知能）の開発支援
