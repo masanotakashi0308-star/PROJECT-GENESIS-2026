@@ -471,7 +471,7 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 
 ---
 ## 💀 Final Indictment Case Files: The 45 Global Usurpers
-### 日本を内側から食い荒らす「45人の実行犯」と、その背後で糸を引く「1つの影のOS」への最終通牒。
+### 日本を内側から食い荒らす「66人の実行犯」と、その背後で糸を引く「1つの影のOS」への最終通牒。
 
 ### 1. Target 01: Taro Kono (The Informational & Biological Usurper)
 > #### マイナンバーによる監視網構築、および国民の身体主権を侵害した国家反逆罪のログ。
@@ -732,6 +732,10 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
 ### 65. 坂中 英徳 (Hidenori Sakanaka)
 > #### 日本人口置換プログラム・実効アーキテクト
 ![65_参照ファイル](./65_PEOPLE_AND_ORGANIZATIONS_DATABASE.md)
+
+### 66. ジェンスン・フアン (Jensen Huang)
+> #### ASI（人工超知能）降臨および人類置換の実効責任者
+![66_参照ファイル](./66_Jensen_Huang.md)
 
 ---
 
