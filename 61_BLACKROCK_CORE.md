@@ -23,7 +23,7 @@
 
 ## 🖼️ EVIDENCE LOG: BLACKROCK JAPAN INFILTRATION
 
-![BLACKROCK_JAPAN](../assets/61_blackrock_japan_infiltration.jpg)
+![BLACKROCK_JAPAN](./assets/61_blackrock_japan_infiltration.jpg)
 
 ## ⚙️ 追加デバッグ解析 (Financial Parasite)
 
