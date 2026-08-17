@@ -470,7 +470,7 @@ Liberation of Japan: Deconstruction of the Blood Covenant and Special Accounts.
   * 英国系DSの血脈とシリコンバレーAIが交差する港町。カジノ偽装からバイオ監視への移行、天下りパッチによる利権還流、そしてパランティア等のクラウドインフラによるデータ簒奪の全貌。
 
 ---
-## 💀 Final Indictment Case Files: The 45 Global Usurpers
+## 💀 Final Indictment Case Files: The 66 Global Usurpers
 ### 日本を内側から食い荒らす「66人の実行犯」と、その背後で糸を引く「1つの影のOS」への最終通牒。
 
 ### 1. Target 01: Taro Kono (The Informational & Biological Usurper)
